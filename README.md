@@ -16,9 +16,13 @@
 
 <h3 id="3-1"> 🤗 1. Environment Setting </h3>
 
+```
+>> conda create -n myenv python=3.9
+>> conda activate myenv
+>> pip install -r requirements.txt
+```
 
-
-<h3 id="3-2">  3.2 Model Usage Guide</h3>
+<h3 id="3-2">  2. Model Usage Guide</h3>
 
 We have provided a web version demo based on [Gradio](https://gradio.app). To use it, you first need to download this repository:
 
