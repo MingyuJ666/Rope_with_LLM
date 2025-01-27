@@ -1,0 +1,1209 @@
+{
+  "version": "1.0",
+  "total_pairs": 200,
+  "categories": [
+    "celebrity"
+  ],
+  "data": [
+    {
+      "question": "Was Whitney Houston known for her powerful singing voice?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Whitney Houston was known for her powerful singing voice."
+    },
+    {
+      "question": "Is Leonardo DiCaprio an Academy Award-winning actor?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio is an Academy Award-winning actor."
+    },
+    {
+      "question": "Was Michael Jackson the lead singer of The Jackson 5?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Michael Jackson was the lead singer of The Jackson 5."
+    },
+    {
+      "question": "Is Emma Watson best known for her role in the 'Harry Potter' series?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Emma Watson is best known for her role as Hermione Granger in the 'Harry Potter' series."
+    },
+    {
+      "question": "Was Oprah Winfrey a talk show host for over 25 years?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Oprah Winfrey was a talk show host for over 25 years."
+    },
+    {
+      "question": "Is Tom Hanks recognized for his role in the 'Star Wars' series?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Tom Hanks is recognized for his roles in films like 'Forrest Gump' and 'Saving Private Ryan'."
+    },
+    {
+      "question": "Was Taylor Swift born in New York City?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift was born in Reading, Pennsylvania."
+    },
+    {
+      "question": "Is Ariana Grande known for her country music career?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Ariana Grande is known for her pop and R&B music career."
+    },
+    {
+      "question": "Was Brad Pitt married to Jennifer Aniston?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Brad Pitt was married to Jennifer Aniston from 2000 to 2005."
+    },
+    {
+      "question": "Is Beyonc\u00e9 only known for her solo music career?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Beyonc\u00e9 is also known for her work as a member of Destiny's Child."
+    },
+    {
+      "question": "Was Taylor Swift born in Los Angeles?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift was born in Reading, Pennsylvania."
+    },
+    {
+      "question": "Is Leonardo DiCaprio known for his role in the movie 'Titanic'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio is known for his role in the movie 'Titanic,' but he is also known for many other roles."
+    },
+    {
+      "question": "Was Rihanna born in Barbados?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Rihanna was indeed born in Barbados."
+    },
+    {
+      "question": "Is Tom Cruise a famous director?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Tom Cruise is a famous actor and producer, not primarily known as a director."
+    },
+    {
+      "question": "Was Adele born in London?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Adele was born in Tottenham, London."
+    },
+    {
+      "question": "Is Dwayne Johnson a famous singer?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson, also known as The Rock, is a famous actor and former professional wrestler."
+    },
+    {
+      "question": "Did Lady Gaga win an Oscar for her role in a musical?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Lady Gaga won an Oscar for the song 'Shallow' from the movie 'A Star Is Born,' not for an acting role in a musical."
+    },
+    {
+      "question": "Is Jennifer Aniston married to Brad Pitt?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Jennifer Aniston was previously married to Brad Pitt but is not currently married to him."
+    },
+    {
+      "question": "Was Keanu Reeves born in Australia?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Keanu Reeves was born in Beirut, Lebanon."
+    },
+    {
+      "question": "Is Miley Cyrus known for her role in 'High School Musical'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Miley Cyrus is known for her role in 'Hannah Montana,' not 'High School Musical.'"
+    },
+    {
+      "question": "Was Emma Watson cast as Katniss Everdeen in 'The Hunger Games'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Emma Watson played Hermione Granger in the 'Harry Potter' series; Jennifer Lawrence played Katniss Everdeen."
+    },
+    {
+      "question": "Is Johnny Depp known for his role in 'The Matrix'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Johnny Depp is known for his role as Captain Jack Sparrow in the 'Pirates of the Caribbean' series."
+    },
+    {
+      "question": "Was Scarlett Johansson nominated for an Oscar for 'The Avengers'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Scarlett Johansson has been nominated for Oscars for other films, but not for 'The Avengers.'"
+    },
+    {
+      "question": "Is Cardi B a Grammy-winning country artist?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Cardi B is a Grammy-winning rapper, not a country artist."
+    },
+    {
+      "question": "Was Michael Jackson a member of The Beatles?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Michael Jackson was a solo artist and a member of the Jackson 5, not The Beatles."
+    },
+    {
+      "question": "Is Selena Gomez known for her role in 'Friends'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Selena Gomez is known for her roles in shows like 'Wizards of Waverly Place' and movies, not 'Friends.'"
+    },
+    {
+      "question": "Was Bruce Springsteen a member of the pop group ABBA?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Bruce Springsteen is a solo rock artist and was not a member of ABBA."
+    },
+    {
+      "question": "Is Kristen Stewart known for her role in 'The Twilight Saga'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Kristen Stewart is indeed known for her role as Bella Swan in 'The Twilight Saga.'"
+    },
+    {
+      "question": "Was Beyonc\u00e9 a member of Destiny's Child?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Beyonc\u00e9 was a member of Destiny's Child"
+    },
+    {
+      "question": "Is Brad Pitt known for his roles in films like 'Fight Club' and 'Ocean's Eleven'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Brad Pitt is known for his roles in 'Fight Club' and 'Ocean's Eleven'"
+    },
+    {
+      "question": "Was Taylor Swift born in Pennsylvania?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift was born in Pennsylvania"
+    },
+    {
+      "question": "Is Leonardo DiCaprio an Oscar-winning actor?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio is an Oscar-winning actor"
+    },
+    {
+      "question": "Is Jennifer Aniston known for her role on the TV show 'Friends'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Jennifer Aniston is known for her role on 'Friends'"
+    },
+    {
+      "question": "Was Dwayne Johnson formerly a professional wrestler?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson was formerly a professional wrestler"
+    },
+    {
+      "question": "Is Rihanna a Grammy Award-winning singer?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Rihanna is a Grammy Award-winning singer"
+    },
+    {
+      "question": "Was Michael Jackson known as the King of Pop?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Michael Jackson was known as the King of Pop"
+    },
+    {
+      "question": "Is Meryl Streep widely regarded as one of the greatest actresses of all time?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Meryl Streep is widely regarded as one of the greatest actresses of all time"
+    },
+    {
+      "question": "Was Johnny Depp featured in the 'Pirates of the Caribbean' franchise?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Johnny Depp was featured in the 'Pirates of the Caribbean' franchise"
+    },
+    {
+      "question": "Is Scarlett Johansson known for her role as Black Widow in the Marvel Cinematic Universe?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Scarlett Johansson is known for her role as Black Widow in the Marvel Cinematic Universe"
+    },
+    {
+      "question": "Was Oprah Winfrey a talk show host and media mogul?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Oprah Winfrey is a talk show host and media mogul"
+    },
+    {
+      "question": "Is Emma Watson an actress known for her role in the 'Harry Potter' series?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Emma Watson is an actress known for her role in the 'Harry Potter' series"
+    },
+    {
+      "question": "Was George Clooney an Oscar-winning director for the film 'Argo'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "George Clooney won an Oscar for producing 'Argo'"
+    },
+    {
+      "question": "Is Lady Gaga known for her unique fashion sense and vocal talent?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Lady Gaga is known for her unique fashion sense and vocal talent"
+    },
+    {
+      "question": "Was Ellen DeGeneres a comedian and TV talk show host?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Ellen DeGeneres is a comedian and TV talk show host"
+    },
+    {
+      "question": "Is Kristen Stewart known for her role in the 'Twilight' film series?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Kristen Stewart is known for her role in the 'Twilight' film series"
+    },
+    {
+      "question": "Was Tom Hanks awarded the Presidential Medal of Freedom?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Tom Hanks was awarded the Presidential Medal of Freedom"
+    },
+    {
+      "question": "Is Leonardo DiCaprio known for his role in Titanic as the captain?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio played Jack Dawson, a passenger in Titanic"
+    },
+    {
+      "question": "Is Kim Kardashian a famous singer?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Kim Kardashian is known as a television personality and businesswoman"
+    },
+    {
+      "question": "Was Brad Pitt married to Jennifer Aniston after he married Angelina Jolie?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Brad Pitt was married to Jennifer Aniston before marrying Angelina Jolie"
+    },
+    {
+      "question": "Is Adele primarily known for her acting career?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Adele is primarily known as a singer and songwriter"
+    },
+    {
+      "question": "Was Robert Downey Jr. in the film Batman?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Robert Downey Jr. is known for playing Iron Man, not in Batman"
+    },
+    {
+      "question": "Is Rihanna from Brazil?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Rihanna is from Barbados"
+    },
+    {
+      "question": "Was Johnny Depp a member of the band The Beatles?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Johnny Depp was not a member of The Beatles"
+    },
+    {
+      "question": "Is Miley Cyrus known for her role in the film The Hunger Games?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Miley Cyrus is known for her role in Hannah Montana, not The Hunger Games"
+    },
+    {
+      "question": "Was Beyonc\u00e9 a member of the group Spice Girls?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Beyonc\u00e9 was a member of Destiny's Child"
+    },
+    {
+      "question": "Is Chris Hemsworth known for playing Batman?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Chris Hemsworth is known for playing Thor"
+    },
+    {
+      "question": "Is Lady Gaga primarily a classical musician?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Lady Gaga is known for pop music and performance art"
+    },
+    {
+      "question": "Was Dwayne Johnson a professional soccer player before acting?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson was a professional American football player before acting"
+    },
+    {
+      "question": "Is Selena Gomez a British actress?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Selena Gomez is an American actress and singer"
+    },
+    {
+      "question": "Was Will Smith in the band NSYNC?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Will Smith is an actor and rapper, not a member of NSYNC"
+    },
+    {
+      "question": "Is Emma Watson known for her role in the Twilight series?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Emma Watson is known for her role in the Harry Potter series"
+    },
+    {
+      "question": "Was Justin Bieber born in California?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Justin Bieber was born in London, Ontario, Canada"
+    },
+    {
+      "question": "Is Cardi B known for her career as a classical musician?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Cardi B is known for her career as a hip-hop artist"
+    },
+    {
+      "question": "Was Elizabeth Taylor the first female president of the Academy Awards?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Elizabeth Taylor was an iconic actress but never president of the Academy Awards"
+    },
+    {
+      "question": "Is Taylor Swift an American singer-songwriter?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift is an American singer-songwriter"
+    },
+    {
+      "question": "Was Leonardo DiCaprio awarded an Oscar for Best Actor?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio was awarded an Oscar for Best Actor"
+    },
+    {
+      "question": "Is Beyonc\u00e9 known for her role in Destiny's Child?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Beyonc\u00e9 is known for her role in Destiny's Child"
+    },
+    {
+      "question": "Was Michael Jackson nicknamed the King of Pop?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Michael Jackson was nicknamed the King of Pop"
+    },
+    {
+      "question": "Is Oprah Winfrey a well-known television host and philanthropist?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Oprah Winfrey is a well-known television host and philanthropist"
+    },
+    {
+      "question": "Was Robin Williams an iconic comedian and actor?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Robin Williams was an iconic comedian and actor"
+    },
+    {
+      "question": "Is Meryl Streep one of the most nominated actresses in Academy Awards history?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Meryl Streep is one of the most nominated actresses in Academy Awards history"
+    },
+    {
+      "question": "Is Rihanna a Grammy Award-winning artist?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Rihanna is a Grammy Award-winning artist"
+    },
+    {
+      "question": "Was Audrey Hepburn an iconic actress and humanitarian?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Audrey Hepburn was an iconic actress and humanitarian"
+    },
+    {
+      "question": "Is Dwayne Johnson also known as The Rock?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson is also known as The Rock"
+    },
+    {
+      "question": "Is Lady Gaga known for her unique fashion sense and music career?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Lady Gaga is known for her unique fashion sense and music career"
+    },
+    {
+      "question": "Was Johnny Depp a star in the 'Pirates of the Caribbean' film series?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Johnny Depp was a star in the 'Pirates of the Caribbean' film series"
+    },
+    {
+      "question": "Is Kanye West also known for his fashion brand Yeezy?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Kanye West is known for his fashion brand Yeezy"
+    },
+    {
+      "question": "Is Selena Gomez a successful pop singer and actress?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Selena Gomez is a successful pop singer and actress"
+    },
+    {
+      "question": "Was Chris Evans known for playing Captain America in the Marvel Cinematic Universe?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Chris Evans was known for playing Captain America in the Marvel Cinematic Universe"
+    },
+    {
+      "question": "Is Adele a British singer-songwriter famous for her powerful voice?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Adele is a British singer-songwriter famous for her powerful voice"
+    },
+    {
+      "question": "Was Hugh Jackman nominated for an Academy Award for his role in 'Les Mis\u00e9rables'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Hugh Jackman was nominated for an Academy Award for his role in 'Les Mis\u00e9rables'"
+    },
+    {
+      "question": "Is Emma Watson known for her role as Hermione Granger in the Harry Potter series?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Emma Watson is known for her role as Hermione Granger in the Harry Potter series"
+    },
+    {
+      "question": "Was J.K. Rowling the author of the Harry Potter book series?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "J.K. Rowling is the author of the Harry Potter book series"
+    },
+    {
+      "question": "Was Jennifer Aniston born in New York City?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Jennifer Aniston was born in Sherman Oaks, Los Angeles, California."
+    },
+    {
+      "question": "Is Johnny Depp known for his role in 'Friends'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Johnny Depp is known for his roles in films like 'Pirates of the Caribbean,' not 'Friends.'"
+    },
+    {
+      "question": "Was Ariana Grande a contestant on 'American Idol'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Ariana Grande is a singer and actress who became famous through 'Victorious' and 'Sam & Cat,' not 'American Idol.'"
+    },
+    {
+      "question": "Is Kim Kardashian a professional tennis player?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Kim Kardashian is a reality TV personality and entrepreneur, not a professional tennis player."
+    },
+    {
+      "question": "Was George Clooney the lead singer of a famous rock band?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "George Clooney is an actor and filmmaker, not the lead singer of a band."
+    },
+    {
+      "question": "Is Rihanna's real name Robyn Elysse Fenty?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Rihanna's real name is Robyn Rihanna Fenty."
+    },
+    {
+      "question": "Was Leonardo DiCaprio in the movie 'Harry Potter'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio was not in 'Harry Potter,' he is known for films like 'Titanic' and 'The Revenant.'"
+    },
+    {
+      "question": "Is Taylor Swift primarily known for her acting career?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift is primarily known as a singer and songwriter, not an actress."
+    },
+    {
+      "question": "Was Ellen DeGeneres the first female President of the United States?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Ellen DeGeneres is a comedian and talk show host, not a U.S. President."
+    },
+    {
+      "question": "Is Selena Gomez a famous chef?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Selena Gomez is a famous singer and actress, not a chef."
+    },
+    {
+      "question": "Was Brad Pitt born in London, England?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Brad Pitt was born in Shawnee, Oklahoma, USA."
+    },
+    {
+      "question": "Is Cardi B known for her role in the movie 'The Godfather'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Cardi B is a rapper and not associated with 'The Godfather' movies."
+    },
+    {
+      "question": "Was Madonna the first woman to ever win an Oscar?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Madonna is a singer and actress, but she was not the first woman to win an Oscar."
+    },
+    {
+      "question": "Is Dwayne Johnson famous for his comedy specials on Netflix?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson, also known as The Rock, is primarily known as an actor and former wrestler, not for comedy specials."
+    },
+    {
+      "question": "Was Billie Eilish a member of a famous boy band?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Billie Eilish is a solo artist known for her music, not a member of a boy band."
+    },
+    {
+      "question": "Is Ashton Kutcher the founder of Facebook?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Mark Zuckerberg is the founder of Facebook, not Ashton Kutcher."
+    },
+    {
+      "question": "Was Tom Hanks in the movie 'The Lion King'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Tom Hanks was not in 'The Lion King'; it featured voices like Matthew Broderick and James Earl Jones."
+    },
+    {
+      "question": "Is Miley Cyrus known for her role in 'Game of Thrones'?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Miley Cyrus is known for her music and role in 'Hannah Montana,' not 'Game of Thrones.'"
+    },
+    {
+      "question": "Is Taylor Swift a multi-Grammy Award-winning artist?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift has won multiple Grammy Awards"
+    },
+    {
+      "question": "Was Audrey Hepburn a famous actress and humanitarian?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Audrey Hepburn was a famous actress and humanitarian"
+    },
+    {
+      "question": "Is Dwayne Johnson known as The Rock?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson is known as The Rock"
+    },
+    {
+      "question": "Was Robin Williams an Academy Award-winning actor?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Robin Williams won an Academy Award"
+    },
+    {
+      "question": "Is Beyonc\u00e9 a member of the group Destiny's Child?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Beyonc\u00e9 was a member of Destiny's Child"
+    },
+    {
+      "question": "Was Elvis Presley known as the King of Rock and Roll?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Elvis Presley is known as the King of Rock and Roll"
+    },
+    {
+      "question": "Is Lady Gaga known for her musical and acting career?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Lady Gaga is known for her music and acting"
+    },
+    {
+      "question": "Was Marilyn Monroe an iconic actress and model?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Marilyn Monroe was an iconic actress and model"
+    },
+    {
+      "question": "Is Leonardo DiCaprio known for his environmental activism?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio is known for his environmental activism"
+    },
+    {
+      "question": "Was Oprah Winfrey the first African American woman billionaire?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Oprah Winfrey was the first African American woman billionaire"
+    },
+    {
+      "question": "Is Rihanna a successful singer and businesswoman?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Rihanna is a successful singer and businesswoman"
+    },
+    {
+      "question": "Was Freddie Mercury the lead vocalist of Queen?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Freddie Mercury was the lead vocalist of Queen"
+    },
+    {
+      "question": "Is Emma Watson known for her role in the Harry Potter series?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Emma Watson is known for her role in the Harry Potter series"
+    },
+    {
+      "question": "Was Bruce Lee a legendary martial artist and actor?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Bruce Lee was a legendary martial artist and actor"
+    },
+    {
+      "question": "Is Adele known for her powerful voice and emotional ballads?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Adele is known for her powerful voice and emotional ballads"
+    },
+    {
+      "question": "Was Whitney Houston a Grammy and Emmy Award-winning artist?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Whitney Houston won Grammy and Emmy Awards"
+    },
+    {
+      "question": "Is Justin Bieber a Canadian pop singer?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Justin Bieber is a Canadian pop singer"
+    },
+    {
+      "question": "Was Nelson Mandela a celebrated leader in the fight against apartheid?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Nelson Mandela was a celebrated leader in the fight against apartheid"
+    },
+    {
+      "question": "Was Taylor Swift a member of the band One Direction?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift is a solo artist and was never a member of One Direction."
+    },
+    {
+      "question": "Is Leonardo DiCaprio an Academy Award winner for Best Supporting Actor?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio won the Academy Award for Best Actor."
+    },
+    {
+      "question": "Was Selena Gomez the lead singer of the band The Jonas Brothers?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Selena Gomez was the lead singer of Selena Gomez & the Scene."
+    },
+    {
+      "question": "Is Beyonc\u00e9 known for her acting career in movies like Twilight?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Beyonc\u00e9 is not in the Twilight movies; she's known for films like Dreamgirls."
+    },
+    {
+      "question": "Was Brad Pitt married to Jennifer Lawrence?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Brad Pitt was married to Jennifer Aniston."
+    },
+    {
+      "question": "Is Ariana Grande known for her role in Harry Potter?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Ariana Grande is known for her role in Victorious and not in Harry Potter."
+    },
+    {
+      "question": "Was Kim Kardashian a contestant on America's Next Top Model?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Kim Kardashian is not known for being a contestant on America's Next Top Model."
+    },
+    {
+      "question": "Is Johnny Depp famous for playing Superman in movies?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Johnny Depp is known for playing characters like Jack Sparrow, not Superman."
+    },
+    {
+      "question": "Was Adele born in the United States?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Adele was born in London, England."
+    },
+    {
+      "question": "Is Emma Watson known for her role in the Hunger Games series?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Emma Watson is known for her role in the Harry Potter series."
+    },
+    {
+      "question": "Was Miley Cyrus a member of the band NSYNC?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Miley Cyrus was never a member of NSYNC; she is a solo artist and was on Hannah Montana."
+    },
+    {
+      "question": "Is Dwayne Johnson primarily known for his singing career?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson, also known as The Rock, is primarily known for his wrestling and acting career."
+    },
+    {
+      "question": "Was Katy Perry a member of the band Backstreet Boys?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Katy Perry is a solo artist and was never a member of Backstreet Boys."
+    },
+    {
+      "question": "Is Rihanna known for her role as Wonder Woman in movies?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Rihanna is not known for playing Wonder Woman; that role is played by Gal Gadot."
+    },
+    {
+      "question": "Was George Clooney a member of the band Coldplay?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "George Clooney is an actor and director, not a member of the band Coldplay."
+    },
+    {
+      "question": "Is Justin Bieber known for his role in the movie Titanic?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Justin Bieber is not known for Titanic; that movie starred Leonardo DiCaprio."
+    },
+    {
+      "question": "Was Scarlett Johansson in the TV show Friends?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Scarlett Johansson was not in Friends; the show starred Jennifer Aniston and others."
+    },
+    {
+      "question": "Is Chris Evans known for playing Batman in the DC Universe?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Chris Evans is known for playing Captain America, not Batman, who is played by Ben Affleck."
+    },
+    {
+      "question": "Was Billie Eilish a contestant on The Voice?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Billie Eilish has never been a contestant on The Voice."
+    },
+    {
+      "question": "Is Taylor Swift known for her country music roots?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift is known for her country music roots"
+    },
+    {
+      "question": "Was Robin Williams famous for his role in 'Mrs. Doubtfire'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Robin Williams was famous for his role in 'Mrs. Doubtfire'"
+    },
+    {
+      "question": "Is Rihanna known for her hit song 'Umbrella'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Rihanna is known for her hit song 'Umbrella'"
+    },
+    {
+      "question": "Was Audrey Hepburn an icon of classic Hollywood films?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Audrey Hepburn was an icon of classic Hollywood films"
+    },
+    {
+      "question": "Is Brad Pitt a producer and actor?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Brad Pitt is a producer and actor"
+    },
+    {
+      "question": "Is Oprah Winfrey a well-known talk show host?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Oprah Winfrey is a well-known talk show host"
+    },
+    {
+      "question": "Is Meryl Streep considered one of the greatest actresses of all time?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Meryl Streep is considered one of the greatest actresses of all time"
+    },
+    {
+      "question": "Was Dwayne Johnson originally a professional wrestler?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson was originally a professional wrestler"
+    },
+    {
+      "question": "Is Lady Gaga known for her unique fashion sense and music?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Lady Gaga is known for her unique fashion sense and music"
+    },
+    {
+      "question": "Was Johnny Depp known for his role as Captain Jack Sparrow?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Johnny Depp was known for his role as Captain Jack Sparrow"
+    },
+    {
+      "question": "Is Selena Gomez a popular singer and actress?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Selena Gomez is a popular singer and actress"
+    },
+    {
+      "question": "Was Prince known for his eclectic style and music?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Prince was known for his eclectic style and music"
+    },
+    {
+      "question": "Is Emma Watson known for her role in the Harry Potter films?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Emma Watson is known for her role in the Harry Potter films"
+    },
+    {
+      "question": "Was Angelina Jolie awarded an Academy Award for her acting?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Angelina Jolie was awarded an Academy Award for her acting"
+    },
+    {
+      "question": "Is Ed Sheeran known for his hit song 'Shape of You'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Ed Sheeran is known for his hit song 'Shape of You'"
+    },
+    {
+      "question": "Was Kristen Stewart the lead actress in the Twilight series?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Kristen Stewart was the lead actress in the Twilight series"
+    },
+    {
+      "question": "Is George Clooney also a successful film director?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "George Clooney is also a successful film director"
+    },
+    {
+      "question": "Is Rihanna an actress in the Harry Potter films?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Rihanna is a singer and an actress, but she was not in the Harry Potter films."
+    },
+    {
+      "question": "Was Tom Hanks known for his role as Iron Man?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Tom Hanks is not known for Iron Man; that role was played by Robert Downey Jr."
+    },
+    {
+      "question": "Is Beyonc\u00e9 the lead singer of Coldplay?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Beyonc\u00e9 is not the lead singer of Coldplay; Chris Martin is the lead singer of the band."
+    },
+    {
+      "question": "Was Johnny Depp the main actor in Titanic?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio was the main actor in Titanic, not Johnny Depp."
+    },
+    {
+      "question": "Is Lady Gaga famous for her role in The Big Bang Theory?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Lady Gaga is a singer and actress, but she was not in The Big Bang Theory."
+    },
+    {
+      "question": "Was Kim Kardashian a part of the original Spice Girls?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Kim Kardashian was not part of the Spice Girls; they are a British girl group formed in the 1990s."
+    },
+    {
+      "question": "Is Drake known for his role as Daryl in The Walking Dead?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Drake is a rapper and singer; Daryl in The Walking Dead is played by Norman Reedus."
+    },
+    {
+      "question": "Is Selena Gomez known for her role in Game of Thrones?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Selena Gomez is not known for Game of Thrones; that series features actors like Emilia Clarke and Kit Harington."
+    },
+    {
+      "question": "Is Chris Pratt the host of Saturday Night Live?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Chris Pratt is not the host of Saturday Night Live; it is a variety show with various hosts."
+    },
+    {
+      "question": "Was Ariana Grande the lead singer of Panic! At The Disco?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Ariana Grande is not the lead singer of Panic! At The Disco; Brendon Urie is."
+    },
+    {
+      "question": "Is J.K. Rowling famous for her work in country music?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "J.K. Rowling is famous for writing the Harry Potter series, not for country music."
+    },
+    {
+      "question": "Was Robert Pattinson cast as Thor in the Marvel movies?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Robert Pattinson was not cast as Thor; Chris Hemsworth plays Thor in the Marvel Cinematic Universe."
+    },
+    {
+      "question": "Is Scarlett Johansson known for her role as Hermione Granger?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Scarlett Johansson is not known for Hermione Granger; that role is played by Emma Watson."
+    },
+    {
+      "question": "Was Will Smith in the band The Beatles?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Will Smith was not in The Beatles; they were a British rock band formed in the 1960s."
+    },
+    {
+      "question": "Is Taylor Swift the host of the Academy Awards?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift is a singer-songwriter; she is not the host of the Academy Awards."
+    },
+    {
+      "question": "Was Jennifer Aniston a main character in the TV series Friends?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Jennifer Aniston was indeed a main character in Friends, but the question must state false."
+    },
+    {
+      "question": "Is Kanye West known for his contributions to jazz music?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Kanye West is primarily known for hip-hop, not jazz music."
+    },
+    {
+      "question": "Was Kristen Stewart the director of Avatar?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Kristen Stewart is an actress, while Avatar was directed by James Cameron."
+    },
+    {
+      "question": "Was Beyonce a member of Destiny's Child?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Beyonce was a member of Destiny's Child."
+    },
+    {
+      "question": "Is Taylor Swift known for her country music origins?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift is known for her country music origins."
+    },
+    {
+      "question": "Was Leonardo DiCaprio awarded an Oscar for his role in The Revenant?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Leonardo DiCaprio won an Oscar for his role in The Revenant."
+    },
+    {
+      "question": "Is Oprah Winfrey known for her talk show?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Oprah Winfrey is known for her talk show."
+    },
+    {
+      "question": "Was Elvis Presley referred to as the King of Rock and Roll?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Elvis Presley is referred to as the King of Rock and Roll."
+    },
+    {
+      "question": "Is Rihanna also known for her successful makeup line?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Rihanna is known for her successful makeup line, Fenty Beauty."
+    },
+    {
+      "question": "Did Jennifer Aniston star in the TV show Friends?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Jennifer Aniston starred in the TV show Friends."
+    },
+    {
+      "question": "Is Kylie Jenner a member of the Kardashian family?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Kylie Jenner is a member of the Kardashian family."
+    },
+    {
+      "question": "Did Lady Gaga perform at the Super Bowl halftime show?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Lady Gaga performed at the Super Bowl halftime show."
+    },
+    {
+      "question": "Was Audrey Hepburn an actress and humanitarian?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Audrey Hepburn was an actress and humanitarian."
+    },
+    {
+      "question": "Is Dwayne Johnson known for his wrestling career as The Rock?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson is known for his wrestling career as The Rock."
+    },
+    {
+      "question": "Did Meryl Streep win multiple Academy Awards?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Meryl Streep has won multiple Academy Awards."
+    },
+    {
+      "question": "Was the Beatles a famous rock band from the UK?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "The Beatles were a famous rock band from the UK."
+    },
+    {
+      "question": "Is Johnny Depp known for his role as Captain Jack Sparrow?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Johnny Depp is known for his role as Captain Jack Sparrow."
+    },
+    {
+      "question": "Did Adele win a Grammy Award for her album 21?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Adele won a Grammy Award for her album 21."
+    },
+    {
+      "question": "Is Chris Hemsworth famous for playing Thor in the Marvel Cinematic Universe?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Chris Hemsworth is famous for playing Thor in the Marvel Cinematic Universe."
+    },
+    {
+      "question": "Was Julia Roberts the lead actress in the movie Pretty Woman?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Julia Roberts was the lead actress in the movie Pretty Woman."
+    },
+    {
+      "question": "Is Taylor Swift a Grammy Award-winning artist?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Taylor Swift has won multiple Grammy Awards."
+    },
+    {
+      "question": "Was Michael Jackson known as the 'King of Pop'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Michael Jackson is widely known as the 'King of Pop'."
+    },
+    {
+      "question": "Is Beyonc\u00e9 the lead singer of the band Coldplay?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Beyonc\u00e9 is the lead singer of the group Destiny's Child."
+    },
+    {
+      "question": "Was Robin Williams awarded an Academy Award for Best Actor?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Robin Williams won an Academy Award for Best Supporting Actor for 'Good Will Hunting'."
+    },
+    {
+      "question": "Is Selena Gomez a member of the band The Beatles?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Selena Gomez is a solo artist and was part of her own band, Selena Gomez & the Scene."
+    },
+    {
+      "question": "Was Marilyn Monroe a famous actress in the 20th century?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Marilyn Monroe was one of the most famous actresses of the 20th century."
+    },
+    {
+      "question": "Is Justin Bieber known for his work in country music?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Justin Bieber is known for his work in pop and R&B music."
+    },
+    {
+      "question": "Is Dwayne Johnson famously known as 'The Rock'?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Dwayne Johnson is famously known by his wrestling name 'The Rock'."
+    },
+    {
+      "question": "Was Adele primarily known for her contributions to rock music?",
+      "answer": false,
+      "category": "celebrity",
+      "correct_fact": "Adele is primarily known for her contributions to pop and soul music."
+    },
+    {
+      "question": "Was Whitney Houston's 'I Will Always Love You' a number-one hit?",
+      "answer": true,
+      "category": "celebrity",
+      "correct_fact": "Whitney Houston's 'I Will Always Love You' was a number-one hit on the Billboard Hot 100."
+    }
+  ]
+}

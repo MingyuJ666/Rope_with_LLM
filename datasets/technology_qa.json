@@ -1,0 +1,1209 @@
+{
+  "version": "1.0",
+  "total_pairs": 200,
+  "categories": [
+    "technology"
+  ],
+  "data": [
+    {
+      "question": "Is the programming language Python named after a snake?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Python is named after the British comedy series 'Monty Python's Flying Circus'"
+    },
+    {
+      "question": "Is the first computer virus called 'Creeper'?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The Creeper virus is considered the first computer virus."
+    },
+    {
+      "question": "Was the first website ever created in 1989?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The first website was created by Tim Berners-Lee in 1989."
+    },
+    {
+      "question": "Is the term 'WiFi' an abbreviation for 'Wireless Fidelity'?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "'WiFi' is not an abbreviation; it is a brand name."
+    },
+    {
+      "question": "Is the ASCII character set limited to 256 characters?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The ASCII character set is limited to 128 characters."
+    },
+    {
+      "question": "Was the first mobile phone call made in 1973?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The first mobile phone call was made by Martin Cooper in 1973."
+    },
+    {
+      "question": "Is a quantum computer based on classical bits?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "A quantum computer is based on quantum bits or qubits."
+    },
+    {
+      "question": "Is Google's parent company known as Alphabet Inc.?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Alphabet Inc. is the parent company of Google."
+    },
+    {
+      "question": "Was the first email sent in the 1980s?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first email was sent in 1971."
+    },
+    {
+      "question": "Is artificial intelligence a field of computer science?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Artificial intelligence is a subfield of computer science."
+    },
+    {
+      "question": "Is HTML a programming language?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "HTML is a markup language, not a programming language."
+    },
+    {
+      "question": "Was the first iPhone released in 2007?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The first iPhone was released by Apple in 2007."
+    },
+    {
+      "question": "Is a firewall used to protect computer systems from spam?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "A firewall is used to protect against unauthorized access to or from a network."
+    },
+    {
+      "question": "Is the main function of an operating system to manage hardware and software resources?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "An operating system manages hardware and software resources on a computer."
+    },
+    {
+      "question": "Is the logo of Microsoft primarily blue?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The Microsoft logo consists of four colored squares: red, green, blue, and yellow."
+    },
+    {
+      "question": "Does blockchain technology ensure data integrity?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Blockchain technology provides a secure and tamper-proof way to ensure data integrity."
+    },
+    {
+      "question": "Was the programming language Java originally developed for mobile devices?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Java was initially developed for use on television set-top boxes."
+    },
+    {
+      "question": "Is Linux an open-source operating system?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Linux is a free and open-source operating system."
+    },
+    {
+      "question": "Is 5G technology expected to be slower than 4G?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "5G technology is expected to provide significantly faster speeds than 4G."
+    },
+    {
+      "question": "Is the Internet a global network of interconnected computers?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The Internet is a global network of interconnected computers."
+    },
+    {
+      "question": "Is HTML a markup language used for creating web pages?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "HTML is a markup language used for creating web pages."
+    },
+    {
+      "question": "Is Bluetooth technology used for wireless data transfer over short distances?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Bluetooth is used for wireless data transfer over short distances."
+    },
+    {
+      "question": "Is AR short for Augmented Reality?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "AR stands for Augmented Reality."
+    },
+    {
+      "question": "Is the primary function of a computer's CPU to process data?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The primary function of a computer's CPU is to process data."
+    },
+    {
+      "question": "Is a domain name used to identify a website on the Internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A domain name identifies a website on the Internet."
+    },
+    {
+      "question": "Is Wi-Fi a technology that allows devices to connect to the Internet wirelessly?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Wi-Fi allows devices to connect to the Internet wirelessly."
+    },
+    {
+      "question": "Is the main purpose of a firewall to protect networks from unauthorized access?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A firewall protects networks from unauthorized access."
+    },
+    {
+      "question": "Is Bitcoin a type of cryptocurrency?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Bitcoin is a type of cryptocurrency."
+    },
+    {
+      "question": "Is machine learning a subset of artificial intelligence?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Machine learning is a subset of artificial intelligence."
+    },
+    {
+      "question": "Is cloud computing based on the use of remote servers hosted on the Internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Cloud computing uses remote servers hosted on the Internet."
+    },
+    {
+      "question": "Is a pixel the smallest unit of a digital image?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A pixel is the smallest unit of a digital image."
+    },
+    {
+      "question": "Is a URL the address used to access resources on the Internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A URL is the address used to access resources on the Internet."
+    },
+    {
+      "question": "Is 5G the fifth generation of mobile network technology?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "5G is the fifth generation of mobile network technology."
+    },
+    {
+      "question": "Is the World Wide Web synonymous with the Internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The World Wide Web is a system of interlinked hypertext documents on the Internet."
+    },
+    {
+      "question": "Is a smartwatch a wearable device that provides functionality beyond timekeeping?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A smartwatch provides functionality beyond simple timekeeping."
+    },
+    {
+      "question": "Is a router a device that forwards data packets between computer networks?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A router forwards data packets between computer networks."
+    },
+    {
+      "question": "Is virtual reality a simulated experience that can be similar to or completely different from the real world?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Virtual reality is a simulated experience that can mimic or differ from the real world."
+    },
+    {
+      "question": "Is software a collection of instructions that tells a computer how to perform tasks?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Software is a collection of instructions for computers to perform tasks."
+    },
+    {
+      "question": "Is Microsoft Office a free software suite?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Microsoft Office is typically a paid software suite"
+    },
+    {
+      "question": "Was the first mobile phone released in 2000?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first mobile phone was released in 1973"
+    },
+    {
+      "question": "Is the iPhone made by Samsung?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The iPhone is made by Apple"
+    },
+    {
+      "question": "Was the first personal computer introduced by IBM in 1985?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first personal computer introduced by IBM was in 1981"
+    },
+    {
+      "question": "Is Linux a proprietary operating system?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Linux is an open-source operating system"
+    },
+    {
+      "question": "Is Bluetooth technology used for wired connections?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Bluetooth technology is used for wireless connections"
+    },
+    {
+      "question": "Was the first email sent in the year 2000?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first email was sent in 1971"
+    },
+    {
+      "question": "Is Google a government agency?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Google is a private company"
+    },
+    {
+      "question": "Is an SSD a type of hard disk drive?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "An SSD (Solid State Drive) is not a hard disk drive; it uses flash memory"
+    },
+    {
+      "question": "Was the World Wide Web invented by Bill Gates?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The World Wide Web was invented by Tim Berners-Lee"
+    },
+    {
+      "question": "Is artificial intelligence just a trend and not a branch of computer science?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Artificial intelligence is a recognized branch of computer science"
+    },
+    {
+      "question": "Was the first version of Windows released in 1995?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first version of Windows was released in 1985"
+    },
+    {
+      "question": "Is email communication faster than traditional postal service?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Email communication is much faster than traditional postal service"
+    },
+    {
+      "question": "Is cryptocurrency controlled by central banks?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Cryptocurrency is decentralized and not controlled by central banks"
+    },
+    {
+      "question": "Is Adobe Photoshop a web browser?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Adobe Photoshop is an image editing software"
+    },
+    {
+      "question": "Was the PlayStation 2 the first gaming console ever released?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The PlayStation 2 was released after several other gaming consoles"
+    },
+    {
+      "question": "Is Python a type of hardware?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Python is a programming language"
+    },
+    {
+      "question": "Was the first email sent in 2020?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first email was sent in 1971"
+    },
+    {
+      "question": "Is HTML a programming language for games?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "HTML is a markup language used for creating web pages"
+    },
+    {
+      "question": "Is 5G technology used for radio signals but not mobile data?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "5G technology is used for mobile data and radio signals"
+    },
+    {
+      "question": "Was the first smartphone released in the 1990s?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first smartphone was released in 2000"
+    },
+    {
+      "question": "Is artificial intelligence primarily used in physical robots only?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Artificial intelligence is used in software applications and systems, not just physical robots"
+    },
+    {
+      "question": "Is the programming language JavaScript used exclusively for server-side development?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "JavaScript is used for both client-side and server-side development"
+    },
+    {
+      "question": "Was the first computer mouse made of plastic?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first computer mouse was made of wood"
+    },
+    {
+      "question": "Is Linux a type of software developed only for Windows operating systems?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Linux is an operating system kernel that can be used independently of Windows"
+    },
+    {
+      "question": "Is the internet made up of a single server?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The internet is a vast network of interconnected servers"
+    },
+    {
+      "question": "Is quantum computing based on classical binary bits?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Quantum computing is based on quantum bits or qubits"
+    },
+    {
+      "question": "Was the e-commerce platform Amazon started as a grocery store?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Amazon started as an online bookstore"
+    },
+    {
+      "question": "Is Photoshop used for video editing and not for image editing?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Photoshop is primarily used for image editing"
+    },
+    {
+      "question": "Is Wi-Fi connected through fiber optic cables only?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Wi-Fi is a wireless networking technology"
+    },
+    {
+      "question": "Is an algorithm a type of computer virus?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "An algorithm is a set of instructions for solving a problem or performing a task"
+    },
+    {
+      "question": "Was the term 'cloud computing' introduced in the year 1985?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The term 'cloud computing' was popularized in the early 2000s"
+    },
+    {
+      "question": "Is blockchain technology used only in financial transactions?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Blockchain technology can be used for various applications beyond financial transactions"
+    },
+    {
+      "question": "Is virtual reality used only for educational purposes?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Virtual reality is used in various fields, including gaming, training, and entertainment"
+    },
+    {
+      "question": "Is the primary function of a firewall to boost computer graphics performance?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The primary function of a firewall is to protect networks from unauthorized access"
+    },
+    {
+      "question": "Is the programming language Python named after a type of snake?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Python is named after the British comedy series 'Monty Python's Flying Circus'."
+    },
+    {
+      "question": "Was the first computer virus created in the 1980s?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The first computer virus, called 'Elk Cloner', was created in 1982."
+    },
+    {
+      "question": "Is the Internet governed by a single organization?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The Internet is not governed by a single organization; it is a decentralized network."
+    },
+    {
+      "question": "Was the first video game widely recognized as 'Tennis for Two'?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Tennis for Two was one of the first video games, created in 1958."
+    },
+    {
+      "question": "Is HTML a markup language used to create web pages?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "HTML stands for HyperText Markup Language and is used to create web pages."
+    },
+    {
+      "question": "Is the primary function of an operating system to manage computer hardware?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "An operating system manages computer hardware and software resources."
+    },
+    {
+      "question": "Is Google a search engine that uses complex algorithms to rank pages?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Google uses complex algorithms to index and rank web pages in search results."
+    },
+    {
+      "question": "Is blockchain technology primarily used in cryptocurrencies?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Blockchain technology underpins cryptocurrencies like Bitcoin."
+    },
+    {
+      "question": "Is the original purpose of USB to connect peripherals to computers?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "USB was developed to standardize the connection of peripherals to computers."
+    },
+    {
+      "question": "Is artificial intelligence primarily focused on creating data analysis algorithms?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Artificial intelligence encompasses creating algorithms that can simulate human intelligence."
+    },
+    {
+      "question": "Was the Windows operating system developed by Microsoft?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The Windows operating system was developed by Microsoft."
+    },
+    {
+      "question": "Is Wi-Fi technology used to provide wireless internet access?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Wi-Fi is a technology that allows devices to connect to the internet wirelessly."
+    },
+    {
+      "question": "Is the primary purpose of a router to forward data packets between networks?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A router forwards data packets between different networks."
+    },
+    {
+      "question": "Did the first Apple computer, the Apple I, launch in 1976?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The Apple I was introduced by Apple Inc. in 1976."
+    },
+    {
+      "question": "Is the purpose of antivirus software to protect computers from malware?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Antivirus software is designed to detect and remove malware from computers."
+    },
+    {
+      "question": "Is the term 'cloud computing' used to describe the delivery of services over the internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Cloud computing refers to delivering computing services like storage and processing over the internet."
+    },
+    {
+      "question": "Was the first web browser, WorldWideWeb, created by Tim Berners-Lee?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "WorldWideWeb was the first web browser, created by Tim Berners-Lee in 1990."
+    },
+    {
+      "question": "Is open-source software software whose source code is available for modification?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Open-source software allows users to modify and share its source code."
+    },
+    {
+      "question": "Does 5G technology provide faster internet speeds compared to 4G?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "5G technology offers significantly faster speeds than 4G."
+    },
+    {
+      "question": "Is Windows the only operating system developed by Microsoft?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Microsoft has developed multiple operating systems, including Windows, DOS, and more."
+    },
+    {
+      "question": "Was the first website launched in 2000?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first website was launched in 1991."
+    },
+    {
+      "question": "Is Python a programming language primarily used for web development?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Python is a versatile programming language used for various applications, including data science, automation, and web development."
+    },
+    {
+      "question": "Is the iPhone produced by Samsung?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The iPhone is produced by Apple Inc."
+    },
+    {
+      "question": "Was the first iPhone released in 2010?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first iPhone was released in 2007."
+    },
+    {
+      "question": "Is the programming language JavaScript primarily used for server-side programming?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "JavaScript is primarily used for client-side programming."
+    },
+    {
+      "question": "Was the Internet invented in the 1980s?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The groundwork for the Internet began in the late 1960s."
+    },
+    {
+      "question": "Is AI solely a product of the 21st century?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The concept of artificial intelligence dates back to the 1950s."
+    },
+    {
+      "question": "Was the first computer virus created in the 2000s?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first computer virus, called Creeper, was created in the early 1970s."
+    },
+    {
+      "question": "Is Bluetooth a type of wired network technology?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Bluetooth is a wireless networking technology."
+    },
+    {
+      "question": "Was Google founded in 2000?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Google was founded in 1998."
+    },
+    {
+      "question": "Is the primary function of a CPU to store data?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The primary function of a CPU (Central Processing Unit) is to process data and execute instructions."
+    },
+    {
+      "question": "Is Ethernet a wireless communication technology?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Ethernet is a wired communication technology."
+    },
+    {
+      "question": "Was Snapchat the first social media platform?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Snapchat was launched in 2011; Facebook was one of the first social media platforms, launched in 2004."
+    },
+    {
+      "question": "Is the Cloud an actual physical storage device?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The Cloud refers to online storage and services, not a physical device."
+    },
+    {
+      "question": "Did IBM create the first personal computer?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first personal computer is widely considered to be the Altair 8800, created in 1975, while IBM released its first personal computer in 1981."
+    },
+    {
+      "question": "Was the first search engine called Google?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first search engine was called Archie, created in 1990."
+    },
+    {
+      "question": "Is the Internet a network of networks?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The Internet is a network of networks."
+    },
+    {
+      "question": "Is HTML used for creating web pages?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "HTML is used for creating web pages."
+    },
+    {
+      "question": "Is Python a programming language?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Python is a programming language."
+    },
+    {
+      "question": "Is AI an abbreviation for Artificial Intelligence?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "AI is an abbreviation for Artificial Intelligence."
+    },
+    {
+      "question": "Is a GPU primarily used for rendering graphics?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A GPU is primarily used for rendering graphics."
+    },
+    {
+      "question": "Is Wi-Fi a technology for wireless networking?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Wi-Fi is a technology for wireless networking."
+    },
+    {
+      "question": "Is a smartphone a type of handheld device?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A smartphone is a type of handheld device."
+    },
+    {
+      "question": "Is blockchain technology associated with cryptocurrency?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Blockchain technology is associated with cryptocurrency."
+    },
+    {
+      "question": "Is an algorithm a set of rules for solving a problem?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "An algorithm is a set of rules for solving a problem."
+    },
+    {
+      "question": "Is cloud computing a model for delivering IT services over the Internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Cloud computing is a model for delivering IT services over the Internet."
+    },
+    {
+      "question": "Is USB a standard for connecting electronic devices?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "USB is a standard for connecting electronic devices."
+    },
+    {
+      "question": "Is an IP address used to identify devices on a network?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "An IP address is used to identify devices on a network."
+    },
+    {
+      "question": "Is a firewall used to protect networks from unauthorized access?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A firewall is used to protect networks from unauthorized access."
+    },
+    {
+      "question": "Is augmented reality a technology that overlays digital information on the real world?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Augmented reality is a technology that overlays digital information on the real world."
+    },
+    {
+      "question": "Is a router a device used to forward data packets between computer networks?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A router is used to forward data packets between computer networks."
+    },
+    {
+      "question": "Is telecommuting enabled by telecommunications technology?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Telecommuting is enabled by telecommunications technology."
+    },
+    {
+      "question": "Is a hard drive used for storing digital information?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A hard drive is used for storing digital information."
+    },
+    {
+      "question": "Is encryption a method used to secure information?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Encryption is a method used to secure information."
+    },
+    {
+      "question": "Is Python primarily used for mobile app development?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Python is primarily used for web development, data analysis, and machine learning."
+    },
+    {
+      "question": "Was the first computer virus created in the 1990s?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first computer virus, called Creeper, was created in the early 1970s."
+    },
+    {
+      "question": "Is the primary function of a server to store video games?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The primary function of a server is to manage resources and provide services to clients over a network."
+    },
+    {
+      "question": "Was the first smartphone invented in the year 2005?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first smartphone, the IBM Simon, was invented in 1992."
+    },
+    {
+      "question": "Is Wi-Fi a type of wired internet connection?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Wi-Fi is a wireless networking technology."
+    },
+    {
+      "question": "Is a CPU responsible for storing large amounts of data?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "A CPU (Central Processing Unit) is responsible for processing instructions, not for storing data."
+    },
+    {
+      "question": "Is the primary function of RAM to permanently store data?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The primary function of RAM (Random Access Memory) is to temporarily store data for quick access by the CPU."
+    },
+    {
+      "question": "Was the first successful email sent in 1985?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first successful email was sent in 1971 by Ray Tomlinson."
+    },
+    {
+      "question": "Is blockchain technology primarily used for video streaming?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Blockchain technology is primarily used for cryptocurrency and secure data transactions."
+    },
+    {
+      "question": "Is Microsoft Word a web browser?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Microsoft Word is a word processing application, not a web browser."
+    },
+    {
+      "question": "Is the term 'Big Data' used to refer to small datasets?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The term 'Big Data' refers to extremely large datasets that may be analyzed to reveal patterns or trends."
+    },
+    {
+      "question": "Was the first version of Windows released in 1990?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first version of Windows, Windows 1.0, was released in 1985."
+    },
+    {
+      "question": "Is 5G an older technology than 4G?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "5G is a newer technology than 4G."
+    },
+    {
+      "question": "Is the Internet of Things (IoT) limited to smart home devices?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The Internet of Things (IoT) includes a wide range of devices beyond smart home devices, such as industrial machinery and healthcare equipment."
+    },
+    {
+      "question": "Is JavaScript mainly used for server-side programming?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "JavaScript is primarily used for client-side programming in web development."
+    },
+    {
+      "question": "Is a phishing attack a method of enhancing network security?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "A phishing attack is a method used to trick individuals into providing sensitive information."
+    },
+    {
+      "question": "Is Adobe Photoshop mainly used for video editing?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Adobe Photoshop is primarily used for image editing, not video editing."
+    },
+    {
+      "question": "Is USB a type of wireless communication technology?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "USB (Universal Serial Bus) is a wired communication technology."
+    },
+    {
+      "question": "Is the Internet a global network of connected computers?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The Internet is a global network of connected computers."
+    },
+    {
+      "question": "Is artificial intelligence a field of study in computer science?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Artificial intelligence is a field of study in computer science."
+    },
+    {
+      "question": "Was the first smartphone released in 1992?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The first smartphone, called the Simon Personal Communicator, was released in 1992."
+    },
+    {
+      "question": "Is an algorithm a set of instructions for solving a problem?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "An algorithm is a set of instructions for solving a problem."
+    },
+    {
+      "question": "Was the first version of Windows released in 1985?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The first version of Microsoft Windows was released in 1985."
+    },
+    {
+      "question": "Is the QR code invented in 1994?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The QR code was invented in 1994 by Denso Wave."
+    },
+    {
+      "question": "Is cloud computing a technology that allows for data storage over the Internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Cloud computing allows for data storage over the Internet."
+    },
+    {
+      "question": "Is the World Wide Web different from the Internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The World Wide Web is a service that operates over the Internet."
+    },
+    {
+      "question": "Is Bitcoin a decentralized digital currency?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Bitcoin is a decentralized digital currency."
+    },
+    {
+      "question": "Is the main unit of data in computing called a bit?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The main unit of data in computing is called a bit."
+    },
+    {
+      "question": "Was the first email sent in 1971?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The first email was sent in 1971 by Ray Tomlinson."
+    },
+    {
+      "question": "Is a VPN used to create a secure connection over a less secure network?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A VPN is used to create a secure connection over a less secure network."
+    },
+    {
+      "question": "Is augmented reality a technology that overlays digital information onto the real world?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Augmented reality overlays digital information onto the real world."
+    },
+    {
+      "question": "Is a motherboard the main printed circuit board in a computer?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A motherboard is the main printed circuit board in a computer."
+    },
+    {
+      "question": "Is Artificial Intelligence used in various applications like voice recognition?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Artificial Intelligence is used in applications like voice recognition."
+    },
+    {
+      "question": "Is quantum computing based on principles of quantum mechanics?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Quantum computing is based on principles of quantum mechanics."
+    },
+    {
+      "question": "Is a smartphone a handheld device that combines mobile phone and computing functions?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A smartphone is a handheld device that combines mobile phone and computing functions."
+    },
+    {
+      "question": "Is Wi-Fi technology used for wireless networking?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Wi-Fi technology is used for wireless networking."
+    },
+    {
+      "question": "Is an algorithm a step-by-step procedure for solving a problem?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "An algorithm is a step-by-step procedure for solving a problem."
+    },
+    {
+      "question": "Is the World Wide Web a system of interlinked hypertext documents accessed via the internet?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The World Wide Web is a system of interlinked hypertext documents accessed via the internet."
+    },
+    {
+      "question": "Is blockchain a decentralized digital ledger technology?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Blockchain is a decentralized digital ledger technology."
+    },
+    {
+      "question": "Is a virus a type of malicious software that can replicate itself?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A virus is a type of malicious software that can replicate itself."
+    },
+    {
+      "question": "Is cloud computing storing and accessing data over the internet instead of on a local computer?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Cloud computing is storing and accessing data over the internet instead of on a local computer."
+    },
+    {
+      "question": "Is machine learning a subset of artificial intelligence focused on data analysis?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Machine learning is a subset of artificial intelligence focused on data analysis."
+    },
+    {
+      "question": "Is a database a structured collection of data?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A database is a structured collection of data."
+    },
+    {
+      "question": "Is a computer's CPU often referred to as its brain?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "A computer's CPU is often referred to as its brain."
+    },
+    {
+      "question": "Is Windows 10 the latest version of Microsoft's operating system?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Windows 11 is the latest version of Microsoft's operating system"
+    },
+    {
+      "question": "Was the first mobile phone released in 1980?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first mobile phone was released in 1973"
+    },
+    {
+      "question": "Is the Linux kernel developed by Microsoft?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The Linux kernel is developed by Linus Torvalds and a community of developers"
+    },
+    {
+      "question": "Was the first version of the Android operating system released in 2008?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first version of the Android operating system was released in 2007"
+    },
+    {
+      "question": "Is a byte equal to 32 bits?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "A byte is equal to 8 bits"
+    },
+    {
+      "question": "Was Facebook founded in 2005?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Facebook was founded in 2004"
+    },
+    {
+      "question": "Is 5G the slowest mobile network technology?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "5G is the fastest mobile network technology"
+    },
+    {
+      "question": "Is Google Chrome the only web browser developed by Google?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Google also developed the web browsers Chromium and Google Earth"
+    },
+    {
+      "question": "Is a VPN used to trace online activity?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "A VPN is used to protect online privacy and hide online activity"
+    },
+    {
+      "question": "Is DDoS an anti-virus software?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "DDoS stands for Distributed Denial of Service, which is a type of attack"
+    },
+    {
+      "question": "Was Amazon originally an online shoe retailer?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "Amazon originally started as an online bookstore"
+    },
+    {
+      "question": "Is the main purpose of a firewall to improve internet speed?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The main purpose of a firewall is to protect networks from unauthorized access"
+    },
+    {
+      "question": "Is a SQL database primarily used for data visualization?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "A SQL database is primarily used for storing and managing data"
+    },
+    {
+      "question": "Was the first version of Microsoft Office released in 2000?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first version of Microsoft Office was released in 1989"
+    },
+    {
+      "question": "Is Facebook the largest social media platform by user base?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "As of 2023, Facebook is one of the largest social media platforms by user base."
+    },
+    {
+      "question": "Was the first email sent by Ray Tomlinson in 1971?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Ray Tomlinson sent the first email in 1971."
+    },
+    {
+      "question": "Is HTML an acronym that stands for HyperText Markup Language?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "HTML stands for HyperText Markup Language."
+    },
+    {
+      "question": "Was the first smartphone the IBM Simon released in 1992?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The IBM Simon is considered the first smartphone, released in 1992."
+    },
+    {
+      "question": "Is the term 'Wi-Fi' related to wireless fidelity?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Wi-Fi is often associated with the term wireless fidelity, though it technically has no specific meaning."
+    },
+    {
+      "question": "Is 5G the fifth generation of mobile networks?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "5G is indeed the fifth generation of mobile networks."
+    },
+    {
+      "question": "Is JavaScript primarily used for web development?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "JavaScript is primarily used for web development."
+    },
+    {
+      "question": "Is the company Tesla founded by Elon Musk?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Elon Musk is one of the co-founders of Tesla."
+    },
+    {
+      "question": "Is the operating system Linux open-source?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Linux is an open-source operating system."
+    },
+    {
+      "question": "Is cloud computing a model that allows for remote data access?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Cloud computing allows for remote access to data and applications."
+    },
+    {
+      "question": "Was the first web browser called WorldWideWeb?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "The first web browser was indeed called WorldWideWeb."
+    },
+    {
+      "question": "Is artificial intelligence used in voice recognition technologies?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "Artificial intelligence is commonly used in voice recognition technologies."
+    },
+    {
+      "question": "Is the programming language C++ used for system programming?",
+      "answer": true,
+      "category": "technology",
+      "correct_fact": "C++ is widely used for system programming and application development."
+    },
+    {
+      "question": "Was the first smartphone invented in the year 2000?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "The first smartphone, the IBM Simon, was invented in 1992."
+    },
+    {
+      "question": "Is HTML a programming language used for creating applications?",
+      "answer": false,
+      "category": "technology",
+      "correct_fact": "HTML is a markup language used for creating web pages, not a programming language."
+    }
+  ]
+}

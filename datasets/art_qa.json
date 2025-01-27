@@ -1,0 +1,1209 @@
+{
+  "version": "1.0",
+  "total_pairs": 200,
+  "categories": [
+    "art"
+  ],
+  "data": [
+    {
+      "question": "Was Leonardo da Vinci the artist who painted the Mona Lisa?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Leonardo da Vinci painted the Mona Lisa"
+    },
+    {
+      "question": "Is Vincent van Gogh known for his Starry Night painting?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh is known for his Starry Night painting"
+    },
+    {
+      "question": "Is Pablo Picasso one of the founding figures of Cubism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Pablo Picasso is one of the founding figures of Cubism"
+    },
+    {
+      "question": "Was Frida Kahlo primarily known for her self-portraits?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is primarily known for her self-portraits"
+    },
+    {
+      "question": "Was Claude Monet a prominent artist of the Impressionist movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Claude Monet was a prominent artist of the Impressionist movement"
+    },
+    {
+      "question": "Is Jackson Pollock associated with the Surrealist movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Jackson Pollock is associated with Abstract Expressionism"
+    },
+    {
+      "question": "Was the Sistine Chapel painted by Michelangelo?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Michelangelo painted the Sistine Chapel"
+    },
+    {
+      "question": "Is Salvador Dal\u00ed known for his realism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Salvador Dal\u00ed is known for his surrealism"
+    },
+    {
+      "question": "Is Andy Warhol famous for his pop art creations?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Andy Warhol is famous for his pop art creations"
+    },
+    {
+      "question": "Was the artist Rembrandt known for his use of bright colors?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Rembrandt is known for his use of chiaroscuro and darker tones"
+    },
+    {
+      "question": "Was Gustav Klimt an Austrian painter known for his decorative style?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Gustav Klimt was an Austrian painter known for his decorative style"
+    },
+    {
+      "question": "Is Henri Matisse considered a leading figure of the Baroque period?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Henri Matisse was a leading figure of Modern art, particularly Fauvism"
+    },
+    {
+      "question": "Is Georgia O'Keeffe known for her large-scale flower paintings?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe is known for her large-scale flower paintings"
+    },
+    {
+      "question": "Did Wassily Kandinsky primarily work in a realistic style?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Wassily Kandinsky is known for his abstract art"
+    },
+    {
+      "question": "Was Diego Rivera a famous Mexican muralist?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Diego Rivera was a famous Mexican muralist"
+    },
+    {
+      "question": "Is Edvard Munch known for his painting The Persistence of Memory?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Persistence of Memory is painted by Salvador Dal\u00ed"
+    },
+    {
+      "question": "Was Banksy known for his street art?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Banksy is known for his street art"
+    },
+    {
+      "question": "Is Claude Monet best known for his sculptures?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Claude Monet is best known for his paintings"
+    },
+    {
+      "question": "Is Keith Haring associated with the Neo-Expressionism movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Keith Haring is associated with the Pop Art and graffiti art movements"
+    },
+    {
+      "question": "Was Vincent van Gogh known for painting in the 20th century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh was known for painting in the 19th century."
+    },
+    {
+      "question": "Is the Mona Lisa housed in the Louvre Museum in Paris, France?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Mona Lisa is housed in the Louvre Museum in Paris, France."
+    },
+    {
+      "question": "Was Pablo Picasso a prominent figure in the Romantic movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Pablo Picasso was a prominent figure in the Cubist movement."
+    },
+    {
+      "question": "Is the famous sculpture 'David' by Michelangelo in the Vatican?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The famous sculpture 'David' by Michelangelo is in Florence, Italy."
+    },
+    {
+      "question": "Was Claude Monet associated with the Surrealist movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Claude Monet was associated with the Impressionist movement."
+    },
+    {
+      "question": "Is the painting 'The Starry Night' by Vincent van Gogh set in a sunny day?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The painting 'The Starry Night' by Vincent van Gogh depicts a night scene."
+    },
+    {
+      "question": "Was Jackson Pollock known for his detailed portrait paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Jackson Pollock was known for his abstract expressionist drip paintings."
+    },
+    {
+      "question": "Is Impressionism characterized by precise and sharp lines?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Impressionism is characterized by loose brushwork and an emphasis on light."
+    },
+    {
+      "question": "Is the artist Frida Kahlo primarily known for her landscape paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is primarily known for her self-portraits."
+    },
+    {
+      "question": "Was the artist Salvador Dali a key figure in the Realism movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Salvador Dali was a key figure in the Surrealism movement."
+    },
+    {
+      "question": "Is the famous painting 'The Scream' by Edvard Munch about a peaceful scene?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "'The Scream' by Edvard Munch expresses intense emotion and anxiety."
+    },
+    {
+      "question": "Was the Renaissance primarily a period known for its focus on modern technology?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Renaissance was primarily a period known for its focus on art and humanism."
+    },
+    {
+      "question": "Is the work of Roy Lichtenstein associated with the Baroque period?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Roy Lichtenstein is associated with the Pop Art movement."
+    },
+    {
+      "question": "Was the painting 'Girl with a Pearl Earring' completed during the 18th century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "'Girl with a Pearl Earring' was completed during the 17th century."
+    },
+    {
+      "question": "Is the art style Cubism defined by its realistic and lifelike depictions?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Cubism is defined by its abstract and fragmented portrayal of subjects."
+    },
+    {
+      "question": "Was the artist Georgia O'Keeffe primarily known for her abstract sculptures?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe is primarily known for her paintings of flowers and landscapes."
+    },
+    {
+      "question": "Is the famous mural 'Guernica' by Picasso set in a vibrant and joyful atmosphere?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "'Guernica' by Picasso depicts the horrors of war and suffering."
+    },
+    {
+      "question": "Is the primary subject of Andy Warhol's art typically found in nature?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Andy Warhol's art primarily focuses on consumer culture and pop icons."
+    },
+    {
+      "question": "Was the painting 'The Last Supper' created by Rembrandt?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "'The Last Supper' was created by Leonardo da Vinci."
+    },
+    {
+      "question": "Is the artist Henri Matisse best known for his contributions to classical sculpture?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Henri Matisse is best known for his contributions to painting and the Fauvism movement."
+    },
+    {
+      "question": "Is Leonardo da Vinci known for painting the Mona Lisa?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Leonardo da Vinci is known for painting the Mona Lisa."
+    },
+    {
+      "question": "Was Vincent van Gogh a post-impressionist painter?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh was a post-impressionist painter."
+    },
+    {
+      "question": "Is Pablo Picasso associated with the Cubist movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Pablo Picasso is associated with the Cubist movement."
+    },
+    {
+      "question": "Was the Sistine Chapel ceiling painted by Michelangelo?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Sistine Chapel ceiling was painted by Michelangelo."
+    },
+    {
+      "question": "Is The Starry Night a famous painting by Vincent van Gogh?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Starry Night is a famous painting by Vincent van Gogh."
+    },
+    {
+      "question": "Was the artwork 'The Persistence of Memory' created by Salvador Dal\u00ed?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Persistence of Memory was created by Salvador Dal\u00ed."
+    },
+    {
+      "question": "Is Frida Kahlo known for her self-portraits?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is known for her self-portraits."
+    },
+    {
+      "question": "Is Jackson Pollock known for his drip painting technique?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Jackson Pollock is known for his drip painting technique."
+    },
+    {
+      "question": "Was the Artist Claude Monet a founder of Impressionism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Claude Monet was a founder of Impressionism."
+    },
+    {
+      "question": "Is The Last Supper a mural painted by Leonardo da Vinci?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Last Supper is a mural painted by Leonardo da Vinci."
+    },
+    {
+      "question": "Is the Louvre Museum located in Paris, France?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Louvre Museum is located in Paris, France."
+    },
+    {
+      "question": "Was Andy Warhol a leading figure in the Pop Art movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Andy Warhol was a leading figure in the Pop Art movement."
+    },
+    {
+      "question": "Is the Venus de Milo an ancient Greek statue?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Venus de Milo is an ancient Greek statue."
+    },
+    {
+      "question": "Is Roy Lichtenstein known for his comic book-style art?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Roy Lichtenstein is known for his comic book-style art."
+    },
+    {
+      "question": "Was Georgia O'Keeffe famous for her large-scale flower paintings?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe was famous for her large-scale flower paintings."
+    },
+    {
+      "question": "Is the art style known as Surrealism associated with dream-like imagery?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Surrealism is associated with dream-like imagery."
+    },
+    {
+      "question": "Is the National Gallery of Art located in Washington, D.C.?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The National Gallery of Art is located in Washington, D.C."
+    },
+    {
+      "question": "Was the painter Henri Matisse known for his use of color?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Henri Matisse was known for his use of color."
+    },
+    {
+      "question": "Is easel painting a common technique used by artists?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Easel painting is a common technique used by artists."
+    },
+    {
+      "question": "Is Cubism characterized by fragmented and abstracted forms?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Cubism is characterized by fragmented and abstracted forms."
+    },
+    {
+      "question": "Is Vincent van Gogh known for painting with watercolors?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh is known for his oil paintings."
+    },
+    {
+      "question": "Was Leonardo da Vinci the primary artist of 'The Last Supper'?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Leonardo da Vinci is the artist of 'The Last Supper', but it is a common misconception that he only painted addresses of churches."
+    },
+    {
+      "question": "Is Pablo Picasso associated with the Baroque art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Pablo Picasso is associated with the Cubist movement."
+    },
+    {
+      "question": "Was Rembrandt a famous Impressionist painter?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Rembrandt is known for his contributions to Baroque painting."
+    },
+    {
+      "question": "Is Andy Warhol famous for his realism paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Andy Warhol is famous for his Pop Art."
+    },
+    {
+      "question": "Was Jackson Pollock known for his intricate brushwork?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Jackson Pollock is known for his drip painting technique."
+    },
+    {
+      "question": "Is Michelangelo primarily recognized for his paintings on canvas?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Michelangelo is primarily recognized for his frescoes on ceilings, such as the Sistine Chapel."
+    },
+    {
+      "question": "Is the Mona Lisa a work by Claude Monet?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Mona Lisa is a work by Leonardo da Vinci."
+    },
+    {
+      "question": "Was Frida Kahlo known for her abstract artworks?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is known for her surrealist and symbolic self-portraits."
+    },
+    {
+      "question": "Is Salvador Dal\u00ed known for his realistic sculptures?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Salvador Dal\u00ed is known for his surrealist paintings."
+    },
+    {
+      "question": "Was Georgia O'Keeffe known for her depictions of urban landscapes?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe is known for her paintings of flowers and southwestern landscapes."
+    },
+    {
+      "question": "Is Gustav Klimt's famous painting 'The Kiss' an example of Cubism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Gustav Klimt's 'The Kiss' is an example of the Symbolism and Art Nouveau movements."
+    },
+    {
+      "question": "Was Henri Matisse a leader of the Dada movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Henri Matisse was a leading figure in Fauvism."
+    },
+    {
+      "question": "Is Banksy a well-known figure in classical sculpture?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Banksy is known for his street art and graffiti."
+    },
+    {
+      "question": "Was the Renaissance primarily known for its use of digital media?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Renaissance is known for its advances in painting, sculpture, and architecture, not digital media."
+    },
+    {
+      "question": "Is art deco an art movement from the 18th century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Art Deco is an art movement that emerged in the 1920s and 1930s."
+    },
+    {
+      "question": "Is the famous sculpture 'David' created by Raphael?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The famous sculpture 'David' was created by Michelangelo."
+    },
+    {
+      "question": "Was the work 'Starry Night' created by Paul C\u00e9zanne?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The work 'Starry Night' was created by Vincent van Gogh."
+    },
+    {
+      "question": "Is pointillism a technique associated with Renaissance art?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Pointillism is a technique associated with Post-Impressionism."
+    },
+    {
+      "question": "Is Vincent van Gogh famous for his painting Starry Night?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh is famous for the painting Starry Night"
+    },
+    {
+      "question": "Was Pablo Picasso one of the founders of Cubism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Pablo Picasso was one of the founders of Cubism"
+    },
+    {
+      "question": "Is Michelangelo known for sculpting David?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Michelangelo is known for sculpting the statue of David"
+    },
+    {
+      "question": "Was Claude Monet a key figure in the Impressionist movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Claude Monet was a key figure in the Impressionist movement"
+    },
+    {
+      "question": "Is Frida Kahlo recognized for her self-portraits?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is recognized for her self-portraits"
+    },
+    {
+      "question": "Was The Scream painted by Edvard Munch?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Scream was painted by Edvard Munch"
+    },
+    {
+      "question": "Is Jackson Pollock associated with Abstract Expressionism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Jackson Pollock is associated with Abstract Expressionism"
+    },
+    {
+      "question": "Is Andy Warhol known for his work in Pop Art?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Andy Warhol is known for his work in Pop Art"
+    },
+    {
+      "question": "Was Henri Matisse a leading figure in Fauvism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Henri Matisse was a leading figure in Fauvism"
+    },
+    {
+      "question": "Is the Louvre Museum located in Paris?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Louvre Museum is located in Paris"
+    },
+    {
+      "question": "Is the Girl with a Pearl Earring painted by Johannes Vermeer?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Girl with a Pearl Earring was painted by Johannes Vermeer"
+    },
+    {
+      "question": "Was the Last Supper created by Leonardo da Vinci?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Last Supper was created by Leonardo da Vinci"
+    },
+    {
+      "question": "Is Salvador Dal\u00ed known for his surrealist artworks?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Salvador Dal\u00ed is known for his surrealist artworks"
+    },
+    {
+      "question": "Is the Sistine Chapel famous for Michelangelo's ceiling frescoes?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Sistine Chapel is famous for Michelangelo's ceiling frescoes"
+    },
+    {
+      "question": "Was Georgia O'Keeffe a prominent American modernist artist?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe was a prominent American modernist artist"
+    },
+    {
+      "question": "Is the term 'Renaissance' associated with a revival of classical art?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The term 'Renaissance' is associated with a revival of classical art"
+    },
+    {
+      "question": "Is Abstract Expressionism characterized by spontaneous and automatic creation?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Abstract Expressionism is characterized by spontaneous and automatic creation"
+    },
+    {
+      "question": "Was the Golden Age of Dutch painting a period marked by strong use of light and shadow?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Golden Age of Dutch painting is marked by strong use of light and shadow"
+    },
+    {
+      "question": "Is the Philadelphia Museum of Art famous for its Rocky Steps?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Philadelphia Museum of Art is famous for its Rocky Steps"
+    },
+    {
+      "question": "Is Vincent van Gogh primarily known for his sculpture?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh is primarily known for his painting."
+    },
+    {
+      "question": "Was the Mona Lisa painted by Claude Monet?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+      "question": "Is Pablo Picasso famous for his work in the Impressionist style?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Pablo Picasso is famous for his contributions to Cubism."
+    },
+    {
+      "question": "Was Michelangelo known for his paintings on the walls of the Louvre?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Michelangelo is known for his frescoes on the ceiling of the Sistine Chapel."
+    },
+    {
+      "question": "Is Jackson Pollock associated with the classical art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Jackson Pollock is associated with Abstract Expressionism."
+    },
+    {
+      "question": "Was Georgia O'Keeffe known for her landscape paintings in the 18th century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe is known for her modernist paintings in the 20th century."
+    },
+    {
+      "question": "Is Andy Warhol considered a pioneer of the Baroque art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Andy Warhol is considered a pioneer of the Pop Art movement."
+    },
+    {
+      "question": "Is the Sistine Chapel located in Paris?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Sistine Chapel is located in Vatican City."
+    },
+    {
+      "question": "Was Frida Kahlo primarily known for her abstract paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is known for her self-portraits and works inspired by nature and Mexican culture."
+    },
+    {
+      "question": "Is Salvador Dal\u00ed associated with Minimalism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Salvador Dal\u00ed is associated with Surrealism."
+    },
+    {
+      "question": "Was the artist Banksy known for his murals in the 19th century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Banksy is known for his street art in the 21st century."
+    },
+    {
+      "question": "Is the term 'Renaissance' used to describe the art of the 21st century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Renaissance refers to a period of art from the 14th to the 17th century."
+    },
+    {
+      "question": "Is Henri Matisse best known for his work in realism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Henri Matisse is best known for his work in Fauvism."
+    },
+    {
+      "question": "Was the artist Diego Rivera primarily a photographer?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Diego Rivera was primarily a muralist and painter."
+    },
+    {
+      "question": "Is the Great Wave off Kanagawa a piece of modern art?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Great Wave off Kanagawa is a woodblock print from the Edo period."
+    },
+    {
+      "question": "Was Wassily Kandinsky known for his landscape paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Wassily Kandinsky is known for his abstract art."
+    },
+    {
+      "question": "Is the artwork 'The Last Supper' by Vincent van Gogh?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The artwork 'The Last Supper' was created by Leonardo da Vinci."
+    },
+    {
+      "question": "Is pop art characterized by its emphasis on classical themes and techniques?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Pop art is characterized by its focus on popular culture and commercial imagery."
+    },
+    {
+      "question": "Is the main medium of Art Nouveau oil painting?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Art Nouveau encompasses various mediums including architecture and decorative arts, not limited to oil painting."
+    },
+    {
+      "question": "Was Leonardo da Vinci known for painting the Mona Lisa?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "question": "Is The Scream a famous painting by Edvard Munch?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Scream is a famous painting by Edvard Munch."
+    },
+    {
+      "question": "Was Claude Monet a leader in the Impressionist movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Claude Monet was a leader in the Impressionist movement."
+    },
+    {
+      "question": "Is the artwork The Last Supper painted by Michelangelo?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Last Supper was painted by Leonardo da Vinci."
+    },
+    {
+      "question": "Was Frida Kahlo known for her self-portraits?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is known for her self-portraits."
+    },
+    {
+      "question": "Was Salvador Dal\u00ed a prominent Surrealist artist?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Salvador Dal\u00ed was a prominent Surrealist artist."
+    },
+    {
+      "question": "Is the sculpture David created by Donatello?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The sculpture David was created by Donatello."
+    },
+    {
+      "question": "Is the painting Guernica by Pablo Picasso a response to the Spanish Civil War?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Guernica is a painting by Pablo Picasso that responds to the Spanish Civil War."
+    },
+    {
+      "question": "Was Yayoi Kusama known for her infinity rooms and polka dots?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Yayoi Kusama is known for her infinity rooms and polka dots."
+    },
+    {
+      "question": "Is the Rottweiler depicted in a famous painting by Francis Bacon?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Francis Bacon included a Rottweiler in one of his famous paintings."
+    },
+    {
+      "question": "Was Henri Matisse known for his use of color and the Fauvism movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Henri Matisse is known for his use of color and the Fauvism movement."
+    },
+    {
+      "question": "Is the painting American Gothic by Grant Wood?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "American Gothic is a painting by Grant Wood."
+    },
+    {
+      "question": "Was the art piece Fountain created by Marcel Duchamp a form of Dada?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Fountain by Marcel Duchamp is a seminal piece of Dada art."
+    },
+    {
+      "question": "Is the Baroque style known for its dramatic use of light and shadow?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Baroque art is known for its dramatic use of light and shadow."
+    },
+    {
+      "question": "Was the artist Banksy known for his street art?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Banksy is known for his street art."
+    },
+    {
+      "question": "Was Michelangelo a sculptor known for the Statue of David?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Michelangelo is a sculptor known for the Statue of David."
+    },
+    {
+      "question": "Is Pablo Picasso associated with the Cubism art movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Pablo Picasso is associated with the Cubism art movement."
+    },
+    {
+      "question": "Is Salvador Dal\u00ed famous for his work in Surrealism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Salvador Dal\u00ed is famous for his work in Surrealism."
+    },
+    {
+      "question": "Was Claude Monet a founder of the Impressionist movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Claude Monet was a founder of the Impressionist movement."
+    },
+    {
+      "question": "Is the Birth of Venus a famous painting by Sandro Botticelli?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Birth of Venus is a famous painting by Sandro Botticelli."
+    },
+    {
+      "question": "Was Jackson Pollock known for his drip painting technique?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Jackson Pollock is known for his drip painting technique."
+    },
+    {
+      "question": "Is Andy Warhol a leading figure in the Pop Art movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Andy Warhol is a leading figure in the Pop Art movement."
+    },
+    {
+      "question": "Is the Vatican Museums home to numerous renowned artworks?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Vatican Museums are home to numerous renowned artworks."
+    },
+    {
+      "question": "Was the artist Banksy known for street art and graffiti?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Banksy is known for street art and graffiti."
+    },
+    {
+      "question": "Is the art style of Gothic architecture characterized by pointed arches?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Gothic architecture is characterized by pointed arches."
+    },
+    {
+      "question": "Is the Kinkade known for his idyllic and light-filled landscapes?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Thomas Kinkade is known for his idyllic and light-filled landscapes."
+    },
+    {
+      "question": "Is Wassily Kandinsky recognized as a pioneer of abstract art?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Wassily Kandinsky is recognized as a pioneer of abstract art."
+    },
+    {
+      "question": "Is Vincent van Gogh known for his sculpture work?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh is known for his paintings, especially 'Starry Night'."
+    },
+    {
+      "question": "Was Leonardo da Vinci primarily a painter of landscapes?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Leonardo da Vinci is primarily known for his portraits, such as 'Mona Lisa'."
+    },
+    {
+      "question": "Is the Mona Lisa housed at the Museum of Modern Art in New York?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Mona Lisa is housed at the Louvre Museum in Paris."
+    },
+    {
+      "question": "Is Claude Monet associated with the Baroque art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Claude Monet is associated with the Impressionist art movement."
+    },
+    {
+      "question": "Was Pablo Picasso known for his traditional realism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Pablo Picasso is known for his contributions to Cubism and modern art."
+    },
+    {
+      "question": "Is Salvador Dal\u00ed primarily known for his oil paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Salvador Dal\u00ed is primarily known for his surrealistic artwork, often including unexpected elements."
+    },
+    {
+      "question": "Was Jackson Pollock famous for his use of watercolors?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Jackson Pollock is famous for his use of acrylics in drip painting."
+    },
+    {
+      "question": "Is the artist Frida Kahlo known for her abstract expressionism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is known for her self-portraits and works inspired by Mexican culture."
+    },
+    {
+      "question": "Is the term 'Renaissance' associated with the 18th century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Renaissance is associated with the 14th to 17th centuries."
+    },
+    {
+      "question": "Was Georgia O'Keeffe primarily a sculptor?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe is primarily known for her paintings of flowers and landscapes."
+    },
+    {
+      "question": "Is the artwork 'The Persistence of Memory' created by Henri Matisse?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The artwork 'The Persistence of Memory' was created by Salvador Dal\u00ed."
+    },
+    {
+      "question": "Are the Impressionists known for their emphasis on detail and precision?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Impressionists are known for their emphasis on capturing light and everyday scenes, often with loose brushwork."
+    },
+    {
+      "question": "Was Andy Warhol a key figure in the Romantic art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Andy Warhol was a key figure in the Pop Art movement."
+    },
+    {
+      "question": "Is the term 'Cubism' associated with the art of the 19th century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Cubism is associated with the early 20th century, particularly with artists like Picasso and Braque."
+    },
+    {
+      "question": "Is the famous sculpture 'David' by Michelangelo on display in London?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The famous sculpture 'David' by Michelangelo is on display in Florence, Italy."
+    },
+    {
+      "question": "Was the art movement known as Surrealism founded in the 19th century?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The art movement known as Surrealism was founded in the 20th century."
+    },
+    {
+      "question": "Is Gustav Klimt recognized for his minimalist approach to art?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Gustav Klimt is recognized for his ornate and decorative style, especially in 'The Kiss'."
+    },
+    {
+      "question": "Was the artist Wassily Kandinsky known for his dark and muted color palette?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Wassily Kandinsky is known for his use of bright, bold colors and abstraction."
+    },
+    {
+      "question": "Is the famous painting 'The Last Supper' a work by Edgar Degas?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The famous painting 'The Last Supper' is a work by Leonardo da Vinci."
+    },
+    {
+      "question": "Is Pablo Picasso the co-founder of Cubism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Pablo Picasso was a co-founder of Cubism."
+    },
+    {
+      "question": "Was The Starry Night painted by Vincent van Gogh?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Starry Night was painted by Vincent van Gogh."
+    },
+    {
+      "question": "Was Frida Kahlo a prominent Mexican painter?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Frida Kahlo was a prominent Mexican painter."
+    },
+    {
+      "question": "Is the sculpture 'David' by Michelangelo located in Florence?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The sculpture 'David' by Michelangelo is located in Florence."
+    },
+    {
+      "question": "Is Andy Warhol associated with the Pop Art movement?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Andy Warhol is associated with the Pop Art movement."
+    },
+    {
+      "question": "Is Georgia O'Keeffe known for her paintings of flowers and landscapes?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe is known for her paintings of flowers and landscapes."
+    },
+    {
+      "question": "Was Claude Monet a founding figure of Impressionism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Claude Monet was a founding figure of Impressionism."
+    },
+    {
+      "question": "Is 'The Last Supper' a famous mural painted by Leonardo da Vinci?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "'The Last Supper' is a famous mural painted by Leonardo da Vinci."
+    },
+    {
+      "question": "Is Matisse known for his use of color and bold patterns?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Henri Matisse is known for his use of color and bold patterns."
+    },
+    {
+      "question": "Was the painting 'The Kiss' created by Gustav Klimt?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "'The Kiss' was created by Gustav Klimt."
+    },
+    {
+      "question": "Is Banksy known for his street art?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Banksy is known for his street art."
+    },
+    {
+      "question": "Was Edgar Degas known for his paintings of dancers?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Edgar Degas was known for his paintings of dancers."
+    },
+    {
+      "question": "Is 'Girl with a Pearl Earring' a painting by Johannes Vermeer?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "'Girl with a Pearl Earring' is a painting by Johannes Vermeer."
+    },
+    {
+      "question": "Was the art movement known as Fauvism characterized by vivid colors?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Fauvism was characterized by vivid colors."
+    },
+    {
+      "question": "Is the Sistine Chapel ceiling painted by Michelangelo?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Sistine Chapel ceiling was painted by Michelangelo."
+    },
+    {
+      "question": "Was Vincent van Gogh known for painting realistic portraits?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh is known for his expressive post-impressionist style and not realistic portraits."
+    },
+    {
+      "question": "Is the Mona Lisa displayed in the Louvre in Paris?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "The Mona Lisa is indeed displayed in the Louvre in Paris."
+    },
+    {
+      "question": "Was Pablo Picasso a famous sculptor primarily known for his large outdoor installations?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Pablo Picasso is more renowned for his painting, especially his roles in cubism."
+    },
+    {
+      "question": "Is Michelangelo known for his role in the artistic movement of Surrealism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Michelangelo was a significant figure in the Renaissance, not Surrealism."
+    },
+    {
+      "question": "Is Jackson Pollock most famous for his landscapes?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Jackson Pollock is known for his abstract drip paintings, not landscapes."
+    },
+    {
+      "question": "Was Claude Monet a leading figure in the Romantic art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Claude Monet was a key figure in Impressionism, not Romanticism."
+    },
+    {
+      "question": "Is Salvador Dal\u00ed recognized for his still life paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Salvador Dal\u00ed is best known for his surrealist works, not still life."
+    },
+    {
+      "question": "Did Andy Warhol primarily create sculptures out of bronze?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Andy Warhol is famously known for his pop art paintings and prints, not primarily sculptures."
+    },
+    {
+      "question": "Is Frida Kahlo celebrated for her abstract expressionist works?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Frida Kahlo is known for her deeply personal and symbolic portraits, not abstract expressionism."
+    },
+    {
+      "question": "Was the artist Georgia O'Keeffe primarily known for her surrealist paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Georgia O'Keeffe is primarily known for her modernist and floral paintings, not surrealism."
+    },
+    {
+      "question": "Is Leonardo da Vinci famous for his role in the 20th-century art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Leonardo da Vinci was a Renaissance artist, not part of the 20th century."
+    },
+    {
+      "question": "Was Henri Matisse a prominent figure in the Classical art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Henri Matisse was a leading figure in modern art, particularly Fauvism."
+    },
+    {
+      "question": "Is Rembrandt known for his colorful landscapes?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Rembrandt is known for his dramatic use of light and shadow in portraits, not colorful landscapes."
+    },
+    {
+      "question": "Was Edward Munch's most famous work a portrait of a historical figure?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Edward Munch is best known for 'The Scream,' which is not a portrait of a historical figure."
+    },
+    {
+      "question": "Is Gustav Klimt recognized for his minimalist art style?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Gustav Klimt is celebrated for his highly decorative and ornate style, not minimalism."
+    },
+    {
+      "question": "Was Roy Lichtenstein a key artist associated with Impressionism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Roy Lichtenstein is known for his work in pop art, not Impressionism."
+    },
+    {
+      "question": "Is Paul C\u00e9zanne celebrated for his work in photorealism?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Paul C\u00e9zanne is known for his role in Post-Impressionism, not photorealism."
+    },
+    {
+      "question": "Was Yayoi Kusama influential in the Baroque art movement?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Yayoi Kusama is a contemporary artist known for her work in pop art and installation, not Baroque."
+    },
+    {
+      "question": "Is Banksy known for his detailed oil paintings?",
+      "answer": false,
+      "category": "art",
+      "correct_fact": "Banksy is known for his street art and graffiti, not detailed oil paintings."
+    },
+    {
+      "question": "Is Vincent van Gogh the artist behind Starry Night?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh painted Starry Night."
+    },
+    {
+      "question": "Is Pablo Picasso one of the founders of Cubism?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Pablo Picasso is recognized as one of the founders of Cubism."
+    },
+    {
+      "question": "Was the artwork The Persistence of Memory created by Salvador Dal\u00ed?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "The Persistence of Memory was painted by Salvador Dal\u00ed."
+    },
+    {
+      "question": "Was Vincent van Gogh a Dutch painter known for his post-impressionist works?",
+      "answer": true,
+      "category": "art",
+      "correct_fact": "Vincent van Gogh was a Dutch painter known for his post-impressionist works."
+    }
+  ]
+}

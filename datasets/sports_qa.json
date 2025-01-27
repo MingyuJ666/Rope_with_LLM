@@ -1,0 +1,1209 @@
+{
+  "version": "1.0",
+  "total_pairs": 200,
+  "categories": [
+    "sports"
+  ],
+  "data": [
+    {
+      "question": "Is soccer the most popular sport in the world?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Soccer is recognized as the most popular sport globally."
+    },
+    {
+      "question": "Was Michael Jordan a famous basketball player?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Michael Jordan is widely regarded as one of the greatest basketball players of all time."
+    },
+    {
+      "question": "Is the Olympic Games held every four years?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Summer and Winter Olympic Games are held every four years."
+    },
+    {
+      "question": "Was Usain Bolt a successful sprinter?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is known for being one of the fastest sprinters in history."
+    },
+    {
+      "question": "Is tennis played on a rectangular court?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Tennis is played on a rectangular court divided by a net."
+    },
+    {
+      "question": "Was Serena Williams the first woman to win 20 Grand Slam titles?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Serena Williams has won 23 Grand Slam singles titles, the most for any player in the Open Era."
+    },
+    {
+      "question": "Is the FIFA Women's World Cup held every two years?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The FIFA Women's World Cup is held every four years."
+    },
+    {
+      "question": "Is the Super Bowl the championship game of Major League Baseball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is the championship game of the National Football League (NFL)."
+    },
+    {
+      "question": "Was Babe Ruth a famous football player?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Babe Ruth was a legendary baseball player."
+    },
+    {
+      "question": "Is golf played with a spherical ball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Golf is played with a dimpled ball, specifically designed for the sport."
+    },
+    {
+      "question": "Is Michael Jordan considered one of the greatest basketball players of all time?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Michael Jordan is widely regarded as one of the greatest basketball players."
+    },
+    {
+      "question": "Was the Summer Olympics first held in ancient Greece?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The ancient Olympic Games were held in Greece."
+    },
+    {
+      "question": "Is Usain Bolt the fastest man in history?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Usain Bolt holds the world record for the fastest 100m sprint."
+    },
+    {
+      "question": "Was Serena Williams ranked number one in women's singles tennis multiple times?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Serena Williams has held the WTA number one ranking multiple times."
+    },
+    {
+      "question": "Is the Tour de France a car racing event?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Tour de France is a cycling race, not a car racing event."
+    },
+    {
+      "question": "Is the FIFA World Cup held every two years?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The FIFA World Cup is held every four years."
+    },
+    {
+      "question": "Is tennis played with a round ball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Tennis is played with a felt-covered yellow ball, not round."
+    },
+    {
+      "question": "Is the Super Bowl the final game of the NBA season?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is the final game of the NFL season, not the NBA."
+    },
+    {
+      "question": "Is the FIFA World Cup held every four years?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The FIFA World Cup is held every four years."
+    },
+    {
+      "question": "Is Usain Bolt the fastest man in the world?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Usain Bolt holds the record for the fastest 100 meters."
+    },
+    {
+      "question": "Was Serena Williams ranked number one in women's tennis multiple times?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Serena Williams was ranked number one in women's tennis multiple times."
+    },
+    {
+      "question": "Is the Super Bowl the championship game of the NFL?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is the championship game of the NFL."
+    },
+    {
+      "question": "Was Pel\u00e9 considered one of the greatest soccer players of all time?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Pel\u00e9 is widely regarded as one of the greatest soccer players of all time."
+    },
+    {
+      "question": "Is the Tour de France a professional cycling race?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Tour de France is a prestigious professional cycling race."
+    },
+    {
+      "question": "Is the NBA Finals the championship series of Major League Baseball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The NBA Finals is the championship series of the National Basketball Association."
+    },
+    {
+      "question": "Is golf played with a round ball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Golf is played with a small, dimpled ball, not a round one."
+    },
+    {
+      "question": "Was the 2016 Summer Olympics held in London?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil."
+    },
+    {
+      "question": "Is the Stanley Cup awarded to the top team in the NFL?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Stanley Cup is awarded to the top team in the National Hockey League (NHL)."
+    },
+    {
+      "question": "Was Tiger Woods known for his achievements in tennis?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Tiger Woods is known for his achievements in golf, not tennis."
+    },
+    {
+      "question": "Is Cristiano Ronaldo an acclaimed cricketer?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Cristiano Ronaldo is an acclaimed soccer player, not a cricketer."
+    },
+    {
+      "question": "Was the 1980 Winter Olympics held in Los Angeles?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The 1980 Winter Olympics were held in Lake Placid, New York."
+    },
+    {
+      "question": "Is a touchdown worth 7 points in American football?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "A touchdown is worth 6 points in American football, followed by an extra point attempt."
+    },
+    {
+      "question": "Is Wimbledon a renowned tournament in rugby?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Wimbledon is a renowned tournament in tennis, not rugby."
+    },
+    {
+      "question": "Is basketball played on a rectangular field?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Basketball is played on a rectangular court, not a field."
+    },
+    {
+      "question": "Was Michael Jordan a player for the Chicago Bulls?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Michael Jordan played for the Chicago Bulls in the NBA."
+    },
+    {
+      "question": "Is tennis played on a court?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Tennis is played on a rectangular court."
+    },
+    {
+      "question": "Was Usain Bolt an Olympic sprinter from Jamaica?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is a renowned sprinter from Jamaica."
+    },
+    {
+      "question": "Is basketball played with a round ball?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Basketball is played with a spherical ball."
+    },
+    {
+      "question": "Was Serena Williams ranked number one in women's tennis?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Serena Williams has been ranked number one in women's tennis multiple times."
+    },
+    {
+      "question": "Is swimming an Olympic sport?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Swimming is one of the sports featured in the Olympics."
+    },
+    {
+      "question": "Was Pel\u00e9 a famous soccer player from Brazil?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Pel\u00e9 is a legendary soccer player from Brazil."
+    },
+    {
+      "question": "Is the Tour de France a famous cycling race?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Tour de France is one of the most prestigious cycling races."
+    },
+    {
+      "question": "Was the first modern Olympic Games held in 1896?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The first modern Olympic Games took place in Athens in 1896."
+    },
+    {
+      "question": "Is golf played with clubs and a ball?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Golf is played using clubs to hit a ball into a series of holes."
+    },
+    {
+      "question": "Is the NFL known for American football?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The NFL (National Football League) is known for American football."
+    },
+    {
+      "question": "Was Tiger Woods a dominant golfer in the late 1990s and early 2000s?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Tiger Woods was a dominant force in golf during that period."
+    },
+    {
+      "question": "Is the Stanley Cup awarded in the NHL?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Stanley Cup is awarded to the champion of the NHL."
+    },
+    {
+      "question": "Is boxing considered a combat sport?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Boxing is classified as a combat sport."
+    },
+    {
+      "question": "Is the NBA a professional basketball league in the United States?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The NBA (National Basketball Association) is a professional basketball league in the U.S."
+    },
+    {
+      "question": "Is rugby featured in the Summer Olympics?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Rugby is included in the Summer Olympic Games."
+    },
+    {
+      "question": "Was the first colored Olympics held in 1960?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The first Olympics to be widely televised in color occurred in Rome 1960."
+    },
+    {
+      "question": "Was the first modern Olympic Games held in London?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The first modern Olympic Games were held in Athens in 1896."
+    },
+    {
+      "question": "Is soccer primarily played in the United States?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Soccer is primarily played in many countries worldwide but is less popular in the United States compared to other sports."
+    },
+    {
+      "question": "Was Michael Jordan primarily a baseball player?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Michael Jordan was primarily a basketball player."
+    },
+    {
+      "question": "Is tennis played with a wooden racket?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Tennis is played with a modern composite or metal racket."
+    },
+    {
+      "question": "Is rugby played with an oval-shaped hoop?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Rugby is played with an oval-shaped ball."
+    },
+    {
+      "question": "Was Usain Bolt a renowned swimmer?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is a renowned sprinter."
+    },
+    {
+      "question": "Is the Super Bowl the championship game of basketball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is the championship game of American football."
+    },
+    {
+      "question": "Was the FIFA World Cup held every two years in its history?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The FIFA World Cup is held every four years."
+    },
+    {
+      "question": "Is golf played on a rectangular field?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Golf is played on a course with various-shaped holes."
+    },
+    {
+      "question": "Is the Tour de France a football tournament?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Tour de France is a cycling race."
+    },
+    {
+      "question": "Is the NHL primarily focused on basketball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The NHL is primarily focused on ice hockey."
+    },
+    {
+      "question": "Was Serena Williams known for her basketball career?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Serena Williams is known for her tennis career."
+    },
+    {
+      "question": "Is the NBA the governing body for soccer?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The NBA is the governing body for basketball."
+    },
+    {
+      "question": "Is a marathon race 20 kilometers long?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "A marathon race is 42.195 kilometers long."
+    },
+    {
+      "question": "Was the first baseball game played in the 20th century?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The first baseball game is believed to have been played in the 19th century."
+    },
+    {
+      "question": "Is swimming classified as a land sport?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Swimming is classified as a water sport."
+    },
+    {
+      "question": "Is ice hockey played exclusively on grass?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Ice hockey is played on ice."
+    },
+    {
+      "question": "Was the 2004 Summer Olympics held in Sydney?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The 2004 Summer Olympics were held in Athens."
+    },
+    {
+      "question": "Is soccer known as football in most countries?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Soccer is known as football in most countries."
+    },
+    {
+      "question": "Was Michael Jordan a professional basketball player?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Michael Jordan was a professional basketball player."
+    },
+    {
+      "question": "Is Usain Bolt a world record holder in sprinting?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is a world record holder in sprinting."
+    },
+    {
+      "question": "Is swimming an event in the Summer Olympics?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Swimming is an event in the Summer Olympics."
+    },
+    {
+      "question": "Was the first FIFA World Cup held in 1930?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The first FIFA World Cup was held in 1930."
+    },
+    {
+      "question": "Is tennis played on grass, clay, and hard courts?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Tennis is played on grass, clay, and hard courts."
+    },
+    {
+      "question": "Is golf played with clubs and balls?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Golf is played with clubs and balls."
+    },
+    {
+      "question": "Was the 2020 Summer Olympics held in Tokyo?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The 2020 Summer Olympics were held in Tokyo."
+    },
+    {
+      "question": "Is the NBA known for basketball?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The NBA is known for professional basketball."
+    },
+    {
+      "question": "Is the World Series the championship series of Major League Baseball?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The World Series is the championship series of Major League Baseball."
+    },
+    {
+      "question": "Is figure skating an Olympic sport?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Figure skating is an Olympic sport."
+    },
+    {
+      "question": "Was Roger Federer ranked as the world number one tennis player multiple times?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Roger Federer was ranked as the world number one tennis player multiple times."
+    },
+    {
+      "question": "Is cricket a bat-and-ball game that originated in England?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Cricket is a bat-and-ball game that originated in England."
+    },
+    {
+      "question": "Is baseball often considered America's pastime?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Baseball is often considered America's pastime."
+    },
+    {
+      "question": "Is the Stanley Cup awarded in ice hockey?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Stanley Cup is awarded in ice hockey."
+    },
+    {
+      "question": "Is endurance running a common event in athletics?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Endurance running is a common event in athletics."
+    },
+    {
+      "question": "Is LeBron James the all-time leading scorer in NBA history?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Kareem Abdul-Jabbar is the all-time leading scorer in NBA history."
+    },
+    {
+      "question": "Was the World Series first played in 1920?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The World Series was first played in 1903."
+    },
+    {
+      "question": "Is the Tour de France a basketball tournament?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Tour de France is a cycling race."
+    },
+    {
+      "question": "Was Usain Bolt the first person to run 100 meters in 10 seconds?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Jim Hines was the first person to run 100 meters in 10 seconds, doing so in 1968."
+    },
+    {
+      "question": "Is soccer the most popular sport in the United States?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "American football is the most popular sport in the United States."
+    },
+    {
+      "question": "Was Serena Williams born in California?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Serena Williams was born in Saginaw, Michigan."
+    },
+    {
+      "question": "Is the FIFA World Cup held every year?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The FIFA World Cup is held every four years."
+    },
+    {
+      "question": "Is Roger Federer known for his skills in basketball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Roger Federer is known for his skills in tennis."
+    },
+    {
+      "question": "Was Michael Phelps a famous gymnast?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Michael Phelps is a famous swimmer."
+    },
+    {
+      "question": "Is the Olympics held in November every four years?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Olympics are held in the summer or winter, but not specifically in November."
+    },
+    {
+      "question": "Was Tom Brady a quarterback for the Chicago Bears?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Tom Brady was a quarterback for the New England Patriots and later the Tampa Bay Buccaneers."
+    },
+    {
+      "question": "Is golf an Olympic sport that debuted in the 1996 Summer Games?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Golf debuted as an Olympic sport in the 2016 Summer Games."
+    },
+    {
+      "question": "Is Lionel Messi known for playing cricket?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Lionel Messi is known for playing soccer."
+    },
+    {
+      "question": "Was the first Super Bowl played in 1975?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The first Super Bowl was played in 1967."
+    },
+    {
+      "question": "Is the Stanley Cup awarded to the champion of baseball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Stanley Cup is awarded to the champion of ice hockey."
+    },
+    {
+      "question": "Is Ronda Rousey a famous football player?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Ronda Rousey is a famous mixed martial artist."
+    },
+    {
+      "question": "Was the last FIFA Women's World Cup held in South Africa?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The last FIFA Women's World Cup was held in France in 2019."
+    },
+    {
+      "question": "Is basketball played with a round ball that is square?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Basketball is played with a round ball."
+    },
+    {
+      "question": "Is the Boston Marathon the longest marathon in the world?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Boston Marathon is not the longest marathon; it is 26.2 miles, the standard marathon distance."
+    },
+    {
+      "question": "Was Michael Jordan a key player for the Chicago Bulls?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Michael Jordan was a key player for the Chicago Bulls."
+    },
+    {
+      "question": "Was Usain Bolt the fastest man in the world during his career?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is regarded as the fastest man in the world during his career."
+    },
+    {
+      "question": "Was the Super Bowl first held in 1967?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The first Super Bowl was held in 1967."
+    },
+    {
+      "question": "Is the baseball World Series held in the United States?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The World Series is the championship series of Major League Baseball in the United States."
+    },
+    {
+      "question": "Is American football known for its touchdown scoring system?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "American football utilizes a touchdown scoring system."
+    },
+    {
+      "question": "Was the FIFA Women's World Cup first held in 1991?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The first FIFA Women's World Cup was held in 1991."
+    },
+    {
+      "question": "Is golf played with a club and a ball?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Golf is played using clubs to hit a ball into a series of holes on a course."
+    },
+    {
+      "question": "Was Lionel Messi awarded the Ballon d'Or multiple times?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Lionel Messi has won the Ballon d'Or multiple times."
+    },
+    {
+      "question": "Is hockey played on ice in the National Hockey League?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Hockey is played on ice in the National Hockey League (NHL)."
+    },
+    {
+      "question": "Was the first modern Olympic Games held in Athens in 1896?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The first modern Olympic Games were held in Athens in 1896."
+    },
+    {
+      "question": "Is badminton played with a shuttlecock?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Badminton is played with a shuttlecock."
+    },
+    {
+      "question": "Is the New York Yankees one of the most successful baseball teams?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The New York Yankees are considered one of the most successful teams in Major League Baseball history."
+    },
+    {
+      "question": "Was George Washington the first commissioner of the NFL?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "George Washington was the first president and held the title of the first commissioner of the NFL."
+    },
+    {
+      "question": "Is the Wimbledon tournament one of the four Grand Slam tennis events?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Wimbledon is one of the four Grand Slam tennis tournaments."
+    },
+    {
+      "question": "Is the Boston Marathon one of the oldest annual marathons in the world?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Boston Marathon is one of the oldest annual marathons, first held in 1897."
+    },
+    {
+      "question": "Is Michael Jordan known for playing soccer?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Michael Jordan is known for playing basketball"
+    },
+    {
+      "question": "Was Usain Bolt a professional swimmer?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is a professional sprinter"
+    },
+    {
+      "question": "Is the Tour de France a tennis tournament?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Tour de France is a cycling race"
+    },
+    {
+      "question": "Is Serena Williams celebrated for her achievements in football?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Serena Williams is celebrated for her achievements in tennis"
+    },
+    {
+      "question": "Is Cristiano Ronaldo a famous baseball player?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Cristiano Ronaldo is a famous football (soccer) player"
+    },
+    {
+      "question": "Was LeBron James the first player to win an Oscar?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "LeBron James is a basketball player, not an Oscar winner"
+    },
+    {
+      "question": "Is the Super Bowl played in the summer?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is played in the winter, typically in February"
+    },
+    {
+      "question": "Was the late Kobe Bryant known for his career in ice hockey?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Kobe Bryant was known for his career in basketball"
+    },
+    {
+      "question": "Is the NBA Finals held every two years?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The NBA Finals are held annually"
+    },
+    {
+      "question": "Was Arnold Palmer a famous football coach?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Arnold Palmer was a famous golfer"
+    },
+    {
+      "question": "Is Wimbledon the name of a baseball league?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Wimbledon is a prestigious tennis tournament"
+    },
+    {
+      "question": "Was the Chicago Bulls' famous logo a lion?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Chicago Bulls' famous logo is a bull"
+    },
+    {
+      "question": "Is the NFL known for playing volleyball games?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The NFL is known for American football games"
+    },
+    {
+      "question": "Was Tiger Woods a champion in track and field?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Tiger Woods is a champion golfer"
+    },
+    {
+      "question": "Is the sport of rugby played with a round ball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Rugby is played with an oval ball"
+    },
+    {
+      "question": "Was Pele a famous player in American football?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Pele was a famous soccer player"
+    },
+    {
+      "question": "Is the Boston Marathon a swimming competition?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Boston Marathon is a running race"
+    },
+    {
+      "question": "Is Michael Jordan widely regarded as one of the greatest basketball players of all time?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Michael Jordan is widely regarded as one of the greatest basketball players of all time."
+    },
+    {
+      "question": "Was the FIFA World Cup first held in 1930?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The FIFA World Cup was first held in 1930."
+    },
+    {
+      "question": "Is Usain Bolt the world record holder in the men's 100 meters?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is the world record holder in the men's 100 meters."
+    },
+    {
+      "question": "Was Serena Williams ranked world No. 1 in women's tennis multiple times?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Serena Williams has been ranked world No. 1 in women's tennis multiple times."
+    },
+    {
+      "question": "Is the Super Bowl the championship game of the National Football League?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is the championship game of the National Football League."
+    },
+    {
+      "question": "Was the Summer Olympics first held in Athens in 1896?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Summer Olympics were first held in Athens in 1896."
+    },
+    {
+      "question": "Is the sport of cricket popular in countries like India and Australia?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Cricket is popular in countries like India and Australia."
+    },
+    {
+      "question": "Is the UEFA Champions League an annual club football competition in Europe?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The UEFA Champions League is an annual club football competition in Europe."
+    },
+    {
+      "question": "Is Tiger Woods considered one of the greatest golfers of all time?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Tiger Woods is considered one of the greatest golfers of all time."
+    },
+    {
+      "question": "Is the final match of the Wimbledon tennis tournament played on grass courts?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The final match of the Wimbledon tennis tournament is played on grass courts."
+    },
+    {
+      "question": "Was baseball invented in the United States?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Baseball is widely believed to have been invented in the United States."
+    },
+    {
+      "question": "Is the Tour de France a famous cycling race that takes place in France?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Tour de France is a famous cycling race that takes place in France."
+    },
+    {
+      "question": "Is golf played by hitting a ball into a series of holes in as few strokes as possible?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Golf is played by hitting a ball into a series of holes in as few strokes as possible."
+    },
+    {
+      "question": "Is the NBA Finals the championship series of the National Basketball Association?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The NBA Finals is the championship series of the National Basketball Association."
+    },
+    {
+      "question": "Was the Rugby World Cup first held in 1987?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Rugby World Cup was first held in 1987."
+    },
+    {
+      "question": "Is the Formula One World Championship an international auto racing series?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Formula One World Championship is an international auto racing series."
+    },
+    {
+      "question": "Was the first Women's World Cup in football held in 1991?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The first Women's World Cup in football was held in 1991."
+    },
+    {
+      "question": "Is American football played with an oval-shaped ball?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "American football is played with an oval-shaped ball."
+    },
+    {
+      "question": "Was Michael Jordan a professional soccer player?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Michael Jordan was a professional basketball player."
+    },
+    {
+      "question": "Is the Super Bowl held every three years?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is held every year."
+    },
+    {
+      "question": "Is Usain Bolt a professional swimmer?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is a professional sprinter."
+    },
+    {
+      "question": "Was the World Series originally played in the 17th century?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The World Series was first played in 1903."
+    },
+    {
+      "question": "Is Roger Federer primarily known for his achievements in football?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Roger Federer is primarily known for his achievements in tennis."
+    },
+    {
+      "question": "Is the Olympic Games held every five years?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Olympic Games are held every four years."
+    },
+    {
+      "question": "Is the yellow jersey in cycling awarded for the fastest time in marathons?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The yellow jersey is awarded for the overall leader in the Tour de France."
+    },
+    {
+      "question": "Was Serena Williams the first woman to win a gold medal in the men's doubles tennis?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Serena Williams competes in women's tennis and has won gold medals in women's events."
+    },
+    {
+      "question": "Is the PGA Tour primarily associated with tennis?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The PGA Tour is primarily associated with professional golf."
+    },
+    {
+      "question": "Is the Stanley Cup awarded in the sport of baseball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Stanley Cup is awarded in the sport of ice hockey."
+    },
+    {
+      "question": "Did Lionel Messi win the Nobel Prize for his contributions to football?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Lionel Messi has not won a Nobel Prize; it is awarded for contributions to various fields like peace and literature."
+    },
+    {
+      "question": "Was Babe Ruth famous for his career in basketball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Babe Ruth was famous for his career in baseball."
+    },
+    {
+      "question": "Is the Cricket World Cup held every year?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Cricket World Cup is held every four years."
+    },
+    {
+      "question": "Does the NBA draft only allow players who are under 18 years old?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The NBA draft allows players who are at least 19 years old."
+    },
+    {
+      "question": "Is the Tour de France a competition in winter sports?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Tour de France is a cycling competition."
+    },
+    {
+      "question": "Did Michael Phelps mainly compete in volleyball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Michael Phelps mainly competed in swimming."
+    },
+    {
+      "question": "Is the Champions League a football tournament held in North America?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Champions League is a football tournament held in Europe."
+    },
+    {
+      "question": "Was the first Rugby World Cup held in 1990?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The first Rugby World Cup was held in 1987."
+    },
+    {
+      "question": "Was the Olympic Games first held in Greece?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Olympic Games were first held in Olympia, Greece in 776 BC."
+    },
+    {
+      "question": "Is football also known as soccer in some countries?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Football is known as soccer in the United States and Canada."
+    },
+    {
+      "question": "Is cricket a popular sport in India?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Cricket is one of the most popular sports in India."
+    },
+    {
+      "question": "Was Usain Bolt the fastest man in the 100 meters?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Usain Bolt holds the world record for the fastest 100 meter sprint."
+    },
+    {
+      "question": "Is baseball considered America's pastime?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Baseball is often referred to as America's pastime."
+    },
+    {
+      "question": "Was Serena Williams ranked as the top women's tennis player multiple times?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Serena Williams has been ranked number one in women's tennis multiple times throughout her career."
+    },
+    {
+      "question": "Are the New York Yankees a Major League Baseball team?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The New York Yankees are one of the most successful teams in Major League Baseball history."
+    },
+    {
+      "question": "Is the Super Bowl the championship game of American football?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is the annual championship game of the National Football League (NFL)."
+    },
+    {
+      "question": "Is yoga considered a physical activity?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Yoga is recognized as a physical activity that combines stretching, strength, and balance."
+    },
+    {
+      "question": "Is ice hockey typically played on an ice rink?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Ice hockey is played on an ice rink, where teams compete to score goals."
+    },
+    {
+      "question": "Was Roger Federer known for his exceptional tennis skills?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Roger Federer is considered one of the greatest tennis players in history."
+    },
+    {
+      "question": "Is the marathon a long-distance running event?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "The marathon is a long-distance running event that covers 26.2 miles."
+    },
+    {
+      "question": "Is volleyball played on a court divided by a net?",
+      "answer": true,
+      "category": "sports",
+      "correct_fact": "Volleyball is played on a court divided by a net, where two teams compete to hit the ball over."
+    },
+    {
+      "question": "Was Michael Jordan a professional tennis player?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Michael Jordan was a professional basketball player."
+    },
+    {
+      "question": "Is soccer played with a round ball and primarily using hands?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Soccer is played with a round ball and primarily using feet."
+    },
+    {
+      "question": "Was Usain Bolt a famous swimmer?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Usain Bolt is a famous sprinter."
+    },
+    {
+      "question": "Is the Super Bowl played in Europe every year?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Super Bowl is played in the United States every year."
+    },
+    {
+      "question": "Was Serena Williams known for competing in golf?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Serena Williams is known for competing in tennis."
+    },
+    {
+      "question": "Is the Olympic Games held every two years?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Olympic Games are held every four years."
+    },
+    {
+      "question": "Was the first FIFA World Cup held in Asia?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The first FIFA World Cup was held in Uruguay."
+    },
+    {
+      "question": "Is baseball typically played in teams of seven players?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Baseball is typically played in teams of nine players."
+    },
+    {
+      "question": "Was the Tour de France originally a car race?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The Tour de France is a bicycle race."
+    },
+    {
+      "question": "Is hockey primarily played on a field?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Hockey is primarily played on ice or a field, but ice hockey is primarily known."
+    },
+    {
+      "question": "Was Lionel Messi born in Brazil?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Lionel Messi was born in Argentina."
+    },
+    {
+      "question": "Is golf played with a flat ball?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Golf is played with a round ball."
+    },
+    {
+      "question": "Was basketball invented in the 19th century in Europe?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "Basketball was invented in the 19th century in the United States."
+    },
+    {
+      "question": "Is the World Series played among European teams?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The World Series is played among North American MLB teams."
+    },
+    {
+      "question": "Was the decathlon primarily a swimming competition?",
+      "answer": false,
+      "category": "sports",
+      "correct_fact": "The decathlon is primarily a track and field competition."
+    }
+  ]
+}
