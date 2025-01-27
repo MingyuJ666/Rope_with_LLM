@@ -52,8 +52,11 @@ DATASET_CONFIG=(
     --max_generation_length 10
 )
 ```
+<h3 id="3-3"> 📊 3. Passkey Retrieve Data Synthesis</h3>
 
-
+```
+>>  sh scripts/save_attn_map.sh 
+```
 
 
 Step 1, install Gradio by running：`pip install gradio`. 
