@@ -7,7 +7,7 @@
 
 
 ## 🆕 News
-- \[**March 2023**\] We submit the paper [Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding](https://github.com/zjunlp/MolGen), the striped massive values appearing in attention Q and K matrices are mainly responsible for contextual knowledge understanding, and this phenomenon originates from RoPE's effects on low-frequency channels.
+- \[**Feb 2025**\] We submit the paper [Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding](https://github.com/zjunlp/MolGen), the striped massive values appearing in attention Q and K matrices are mainly responsible for contextual knowledge understanding, and this phenomenon originates from RoPE's effects on low-frequency channels.
 
 
 
@@ -22,9 +22,12 @@
 >> pip install -r requirements.txt
 ```
 
-<h3 id="3-2">  2. Model Usage Guide</h3>
+<h3 id="3-2"> 📊 2. Passkey Retrieve Data Synthesis</h3>
 
-We have provided a web version demo based on [Gradio](https://gradio.app). To use it, you first need to download this repository:
+```
+>> bash scripts/run_passkey.sh 
+```
+
 
 ```shell
 >> git clone https://github.com/zjunlp/Mol-Instruction
