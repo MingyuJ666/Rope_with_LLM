@@ -25,6 +25,19 @@
 <h3 id="3-2"> 📊 2. Passkey Retrieve Data Synthesis</h3>
 
 ```
+>> bash scripts/run_passkey.sh 
+```
+#### Passkey Retrieval Data Synthesis Parameters：
+
+\[**Core Parameters:**\] seq_length=128: Total length of the generated text sequence (must be ≥ 101)
+begin_pos=50: Starting position for password insertion, passkey_length=6: Length of the password to be inserted
+
+\[**Data Generation Controls:**\] num_gen_example=200: Number of examples to generate, max_data_num=200: Maximum number of examples in the final dataset
+Note: To adjust the dataset size, both num_gen_example and max_data_num should be set to the same value. For example, to generate 300 examples, set both parameters to 300.
+
+⚠️ Important: Setting seq_length below 101 will result in an error.
+
+```
 pos_interval=500
 begin_pos=50
 seq_length=128
@@ -41,10 +54,7 @@ DATASET_CONFIG=(
 ```
 
 
-```shell
->> git clone https://github.com/zjunlp/Mol-Instruction
->> cd demo
-```
+
 
 Step 1, install Gradio by running：`pip install gradio`. 
 
