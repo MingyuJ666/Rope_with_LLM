@@ -25,7 +25,19 @@
 <h3 id="3-2"> 📊 2. Passkey Retrieve Data Synthesis</h3>
 
 ```
->> bash scripts/run_passkey.sh 
+pos_interval=500
+begin_pos=50
+seq_length=128
+passkey_length=6
+# Dataset Parameters
+DATASET_CONFIG=(
+    --dataset 'passkey_retrieval'
+    --split 'test'
+    --dataset_folder './synthetic_tasks'
+    --num_gen_example 200
+    --max_data_num 200
+    --max_generation_length 10
+)
 ```
 
 
