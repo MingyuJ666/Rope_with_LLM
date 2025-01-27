@@ -14,9 +14,7 @@
 
 ## 📝 How to run the Code
 
-<div align=left><img src="fig/logo.png" width="22%" height="22%" /></div>
-
-<h3 id="3-1"> 🤗 3.1 Model Weight Release</h3>
+<h3 id="3-1"> 🤗 1. Environment Setting </h3>
 
 
 
