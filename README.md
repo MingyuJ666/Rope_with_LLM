@@ -94,6 +94,8 @@ global GLOBAL_L
 
 <h3 id="3-4"> 4. 🔬 Massive Value Destruction: Replicating Contextual Knowledge Understanding Experiments </h3>
 
+![architect](image/fig2.png)
+
 ```
 >>  sh scripts/save_attn_map.sh 
 ```
