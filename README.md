@@ -52,13 +52,14 @@ DATASET_CONFIG=(
     --max_generation_length 10
 )
 ```
+You can find other datasets in 
 <h3 id="3-3"> 3. 🎯 Get the Embedding Vector in different LLMs </h3>
 
 ```
 >>  sh scripts/save_attn_map.sh 
 ```
-You can find other datasets in 
-Step 1, pattern="save_attn", select a language model like meta-llama/Llama-2-7b-chat-hf
+
+**Step 1**, pattern="save_attn", select a language model like meta-llama/Llama-2-7b-chat-hf
 
 ```shell
 >> CUDA_VISIBLE_DEVICES=0 python llm_example_save_attn.py \
@@ -66,9 +67,9 @@ Step 1, pattern="save_attn", select a language model like meta-llama/Llama-2-7b-
     --pattern "$pattern" \
     --round "$round" \
 ```
-Step 2: How to choose layers in different LLM
+**Step 2:** How to choose layers in different LLM
 
-For example, **Llama**
+For example, in **Llama**
 
 Find modeling_llama.py and search the code below. Then you can change the code: ```if GLOBAL_L == 1 or GLOBAL_L == 2 or GLOBAL_L == 10:```, choose the layer ```GLOBAL_L``` you want.
 ```
@@ -88,5 +89,5 @@ global GLOBAL_L
                 
 ```
 
-Step 3: Use attn.ipynb or appendix_result/run.ipynb to show the result.
+**Step 3:** Use attn.ipynb or appendix_result/run.ipynb to show the result.
 ![architect](image/fig1.png)
