@@ -69,7 +69,7 @@ You can find other datasets in datasets file.
 ```
 **Step 2:** How to choose layers in different LLM
 
-For example, in **Llama**
+For example, in **Llama🦙**
 
 Find modeling_llama.py and search the code below. Then you can change the code: ```if GLOBAL_L == 1 or GLOBAL_L == 2 or GLOBAL_L == 10:```, choose the layer ```GLOBAL_L``` you want.
 ```
@@ -91,3 +91,5 @@ global GLOBAL_L
 
 **Step 3:** Use attn.ipynb or appendix_result/run.ipynb to show the result.
 ![architect](image/fig1.png)
+
+<h3 id="3-4"> 4. 🔬 Massive Value Destruction: Replicating Contextual Knowledge Understanding Experiments </h3>
