@@ -66,5 +66,27 @@ Step 1, pattern="save_attn", select a language model like meta-llama/Llama-2-7b-
     --pattern "$pattern" \
     --round "$round" \
 ```
-Step 2: Use attn.ipynb to show the result.
+Step 2: How to choose layers in different LLM
 
+For example, **Llama**
+
+Find modeling_llama.py and search the code below. Then you can change the code: ```if GLOBAL_L == 1 or GLOBAL_L == 2 or GLOBAL_L == 10:```, choose the layer ```GLOBAL_L``` you want.
+```
+global GLOBAL_L
+        
+        head_set = range(32)
+        if GLOBAL_L in range(32):
+            if not os.path.exists(save_dir):
+                os.makedirs(save_dir)
+            
+
+            if GLOBAL_L == 1 or GLOBAL_L == 2 or GLOBAL_L == 10:
+                print(query_states.shape)
+                torch.save(query_states, f"{save_dir}/q_merged_attn_weights_layer{GLOBAL_L}.pt")
+                torch.save(key_states, f"{save_dir}/k_merged_attn_weights_layer{GLOBAL_L}.pt")
+                torch.save(value_states, f"{save_dir}/v_merged_attn_weights_layer{GLOBAL_L}.pt")
+                
+```
+
+Step 3: Use attn.ipynb to show the result.
+![architect](image/fig1.png)
