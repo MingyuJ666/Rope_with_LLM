@@ -52,7 +52,7 @@ DATASET_CONFIG=(
     --max_generation_length 10
 )
 ```
-You can find other datasets in 
+You can find other datasets in datasets file.
 <h3 id="3-3"> 3. 🎯 Get the Embedding Vector in different LLMs </h3>
 
 ```
