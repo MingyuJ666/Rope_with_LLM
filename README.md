@@ -88,5 +88,5 @@ global GLOBAL_L
                 
 ```
 
-Step 3: Use attn.ipynb to show the result.
+Step 3: Use attn.ipynb or appendix_result/run.ipynb to show the result.
 ![architect](image/fig1.png)
