@@ -52,58 +52,19 @@ DATASET_CONFIG=(
     --max_generation_length 10
 )
 ```
-<h3 id="3-3"> 📊 3. Passkey Retrieve Data Synthesis</h3>
+<h3 id="3-3"> 3. 🎯 Get the Embedding Vector in different LLMs </h3>
 
 ```
 >>  sh scripts/save_attn_map.sh 
 ```
 
-
-Step 1, install Gradio by running：`pip install gradio`. 
-
-Step 2, specify the parameters in the [generate.sh](./demo/generate.sh) file.
+Step 1, pattern="save_attn", select a language model like meta-llama/Llama-2-7b-chat-hf
 
 ```shell
->> CUDA_VISIBLE_DEVICES=0 python generate.py \
-    --CLI False\
-    --protein False\
-    --load_8bit \
-    --base_model $BASE_MODEL_PATH \
-    --share_gradio True\
-    --lora_weights $FINETUNED_MODEL_PATH \
+>> CUDA_VISIBLE_DEVICES=0 python llm_example_save_attn.py \
+    --model_name meta-llama/Llama-2-7b-chat-hf\
+    --pattern "$pattern" \
+    --round "$round" \
 ```
+Step 2: Use attn.ipynb to show the result.
 
-For models fine-tuned on *molecule-oriented* and *biomolecular text* instructions, please set `$FINETUNED_MODEL_PATH` to `'zjunlp/llama-molinst-molecule-7b'` or `'zjunlp/llama-molinst-biotext-7b'`.
-
-For the model fine-tuned on *protein-oriented* instructions, you need to perform additional steps as described in [this folder](https://github.com/zjunlp/Mol-Instructions/tree/main/demo).
-
-Step 3, run the [generate.sh](./demo/generate.sh) file in the repository： 
-
-```shell
->> sh generate.sh
-```
-
-We offer two methods: the first one is command-line interaction, and the second one is web-based interaction, which provides greater flexibility. 
-
-1. Use the following command to enter **web-based interaction**:
-```shell
->> python generate.py
-```
-  The program will run a web server and output an address. Open the output address in a browser to use it.
-
-2. Use the following command to enter **command-line interaction**:
-```shell
->> python generate.py --CLI True
-```
-  The disadvantage is the inability to dynamically change decoding parameters.
-
-<p align="center">
-  <img alt="Demo" src=fig/gradio_interface_gif.gif style="width: 700px; height: 340px;"/>
-</p>
-
-<h3 id="3-3"> 💡 3.3 Quantitative Experiments</h3>
-
-To investigate whether Mol-Instructions can enhance LLM’s understanding of biomolecules, we conduct the following quantitative experiments. 
-For detailed experimental settings and analysis, please refer to our [paper](https://arxiv.org/pdf/2306.08018.pdf). Please refer to the [evaluation code](https://github.com/zjunlp/Mol-Instructions/tree/main/evaluation) to conduct the same experiments.
-
-## 🧪 Molecular generation tasks
