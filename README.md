@@ -57,7 +57,7 @@ DATASET_CONFIG=(
 ```
 >>  sh scripts/save_attn_map.sh 
 ```
-
+You can find other datasets in 
 Step 1, pattern="save_attn", select a language model like meta-llama/Llama-2-7b-chat-hf
 
 ```shell
