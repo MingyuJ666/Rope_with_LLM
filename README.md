@@ -1,8 +1,6 @@
 <h1 align="center">  🍊 Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding </h1>
 <h3 align="center">  A comprehensive analysis of striped massive values appearing in attention Q and K matrices are mainly responsible for contextual knowledge understanding. </h3>
 
-<p align="center">
-  📃 <a href="https://arxiv.org/abs/2306.08018" target="_blank">Paper</a> 
 
 
 
