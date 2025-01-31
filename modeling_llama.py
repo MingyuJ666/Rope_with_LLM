@@ -561,12 +561,11 @@ class LlamaFlashAttention2(LlamaAttention):
                     top_indices = indices.tolist()
                     target_vectors = [query_states[:, :, head_idx, idx] for idx in top_indices]
                     mean_value = torch.mean(torch.stack([vector.mean() for vector in target_vectors]))
-                    min_value = torch.min(torch.stack([vector.min() for vector in target_vectors]))
-                    max_value = torch.max(torch.stack([vector.max() for vector in target_vectors]))
+                  
                     
                     
                     for idx in top_indices:
-                        query_states[:, :, head_idx, idx] = max_value 
+                        query_states[:, :, head_idx, idx] = mean_value 
                             
                 num_heads = key_states.size(2)
                 matrix = key_states.norm(dim=1).squeeze(0)
@@ -578,12 +577,11 @@ class LlamaFlashAttention2(LlamaAttention):
                     top_indices = indices.tolist()
                     target_vectors = [key_states[:, :, head_idx, idx] for idx in top_indices]
                     mean_value = torch.mean(torch.stack([vector.mean() for vector in target_vectors]))
-                    min_value = torch.min(torch.stack([vector.min() for vector in target_vectors]))
-                    max_value = torch.max(torch.stack([vector.max() for vector in target_vectors]))
+                 
                     
 
                     for idx in top_indices:
-                        key_states[:, :, head_idx, idx] = max_value
+                        key_states[:, :, head_idx, idx] = mean_value
                 
 
 
@@ -598,8 +596,7 @@ class LlamaFlashAttention2(LlamaAttention):
                         top_indices = indices.tolist()
                         target_vectors = [query_states[:, :, head_idx, idx] for idx in top_indices]
                         mean_value = torch.mean(torch.stack([vector.mean() for vector in target_vectors]))
-                        min_value = torch.min(torch.stack([vector.min() for vector in target_vectors]))
-                        max_value = torch.max(torch.stack([vector.max() for vector in target_vectors]))
+                     
 
                         for idx in top_indices:
                             query_states[:, :, head_idx, idx] = mean_value
@@ -614,8 +611,7 @@ class LlamaFlashAttention2(LlamaAttention):
                     top_indices = indices.tolist()
                     target_vectors = [key_states[:, :, head_idx, idx] for idx in top_indices]
                     mean_value = torch.mean(torch.stack([vector.mean() for vector in target_vectors]))
-                    min_value = torch.min(torch.stack([vector.min() for vector in target_vectors]))
-                    max_value = torch.max(torch.stack([vector.max() for vector in target_vectors]))
+                    
 
                     for idx in top_indices:
                         key_states[:, :, head_idx, idx] = mean_value
