@@ -80,7 +80,7 @@ The generated datasets are already available in the datasets folder.
 You can also run the code in the datasets/create_knowledge_qa.py to customize the categories and number of knowledge QA pairs.
 
 ```
-python datasets/create_knowledge_qa.py --category <YOUR_CATEGORY> --num_pairs <YOUR_NUM_PAIRS>
+>> python datasets/create_knowledge_qa.py --category <YOUR_CATEGORY> --num_pairs <YOUR_NUM_PAIRS>
 ```
 
 \[**Core Parameters:**\]
