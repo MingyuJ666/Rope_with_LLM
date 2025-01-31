@@ -134,9 +134,12 @@ if GLOBAL_L in range(32):
 ```
 >>  sh scripts/save_attn_map.sh 
 ```
-\[**Core Parameters**\]: use different model by **model_name** like meta-llama/Meta-Llama-3-8B-Instruct, meta-llama/Llama-2-7b-chat-hf, mistralai/Mistral-7B-Instruct-v0.3, Qwen/Qwen2.5-7B-Instruct, google/gemma-2-9b-it, facebook/opt-2.7b, ai21labs/Jamba-v0.1, Qwen/Qwen2-VL-2B-Instruct
+\[**Core Parameters :**\] 
+-  **model_name**: use different model by **model_name** like meta-llama/Meta-Llama-3-8B-Instruct, meta-llama/Llama-2-7b-chat-hf, mistralai/Mistral-7B-Instruct-v0.3, Qwen/Qwen2.5-7B-Instruct, google/gemma-2-9b-it, facebook/opt-2.7b, ai21labs/Jamba-v0.1, Qwen/Qwen2-VL-2B-Instruct
+-  **round**: Decide how many rounds to run and then take the average
+-  **pattern**: Determine which dataset we will use: "city", "aqua", "imdb", "sports", "art", "cele", "long". 
 ```
-pattern="save_attn"
+pattern="city"
 round=2
 
 CUDA_VISIBLE_DEVICES=0 python llm_example_save_attn.py \
@@ -145,3 +148,27 @@ CUDA_VISIBLE_DEVICES=0 python llm_example_save_attn.py \
     --round "$round" \
     #2>&1 | tee ./imdb_destroy.log      
 ```
+\[**How to destroy Massive Value:**\] Find the file modeling_llama.py and search the code below: 
+
+```
+        add_mean_perturbation = False
+        add_other_perturbation = False
+        if q_len != 1:
+            if add_mean_perturbation == True:
+                num_heads = query_states.size(2)
+                matrix = query_states.norm(dim=1).squeeze(0)
+                for head_idx in range(num_heads):
+                    outlier = matrix[head_idx, :]
+                    values, indices = torch.topk(outlier, 1)
+                    top_indices = indices.tolist()
+                    target_vectors = [query_states[:, :, head_idx, idx] for idx in top_indices]
+                    mean_value = torch.mean(torch.stack([vector.mean() for vector in target_vectors]))
+                    min_value = torch.min(torch.stack([vector.min() for vector in target_vectors]))
+                    max_value = torch.max(torch.stack([vector.max() for vector in target_vectors]))
+                    for idx in top_indices:
+                        query_states[:, :, head_idx, idx] = max_value
+                     ..................................................................................................
+                     ..................................................................................................
+                            
+```
+
