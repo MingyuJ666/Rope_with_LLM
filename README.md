@@ -57,7 +57,15 @@ DATASET_CONFIG=(
 )
 ```
 You can find other datasets in datasets file.
-<h3 id="3-3"> 3. 🎯 Get the Embedding Vector in different LLMs </h3>
+
+<h3 id="3-3"> 📊 3. Knowledge QA Data Synthesis</h3>
+
+```
+>> bash scripts/run_knowledge_qa.sh 
+```
+The generated datasets are already available in the datasets folder.
+
+<h3 id="3-4"> 4. 🎯 Get the Embedding Vector in different LLMs </h3>
 
 ```
 >>  sh scripts/save_attn_map.sh 
@@ -78,25 +86,24 @@ For example, in **Llama🦙**
 Find modeling_llama.py and search the code below. Then you can change the code: ```if GLOBAL_L == 1 or GLOBAL_L == 2 or GLOBAL_L == 10:```, choose the layer ```GLOBAL_L``` you want.
 ```
 global GLOBAL_L
-        
-        head_set = range(32)
-        if GLOBAL_L in range(32):
-            if not os.path.exists(save_dir):
-                os.makedirs(save_dir)
-            
 
-            if GLOBAL_L == 1 or GLOBAL_L == 2 or GLOBAL_L == 10:
-                print(query_states.shape)
-                torch.save(query_states, f"{save_dir}/q_merged_attn_weights_layer{GLOBAL_L}.pt")
-                torch.save(key_states, f"{save_dir}/k_merged_attn_weights_layer{GLOBAL_L}.pt")
-                torch.save(value_states, f"{save_dir}/v_merged_attn_weights_layer{GLOBAL_L}.pt")
+head_set = range(32)
+if GLOBAL_L in range(32):
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
+
+    if GLOBAL_L == 1 or GLOBAL_L == 2 or GLOBAL_L == 10:
+        print(query_states.shape)
+        torch.save(query_states, f"{save_dir}/q_merged_attn_weights_layer{GLOBAL_L}.pt")
+        torch.save(key_states, f"{save_dir}/k_merged_attn_weights_layer{GLOBAL_L}.pt")
+        torch.save(value_states, f"{save_dir}/v_merged_attn_weights_layer{GLOBAL_L}.pt")
                 
 ```
 
 **Step 3:** Use attn.ipynb or appendix_result/run.ipynb to show the result.
 ![architect](image/fig1.png)
 
-<h3 id="3-4"> 4. 🔬 Massive Value Destruction: Replicating Contextual Knowledge Understanding Experiments </h3>
+<h3 id="3-5"> 5. 🔬 Massive Value Destruction: Replicating Contextual Knowledge Understanding Experiments </h3>
 
 ![architect](image/fig2.png)
 
