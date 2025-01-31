@@ -67,6 +67,13 @@ The pipeline of knowledge QA data synthesis can be seen from the figure below.
 ```
 >> bash scripts/run_knowledge_qa.sh 
 ```
+
+You can also run the code in the datasets/create_knowledge_qa.py to customize the categories and number of knowledge QA pairs.
+
+```
+python datasets/create_knowledge_qa.py --category <YOUR_CATEGORY> --num_pairs <YOUR_NUM_PAIRS>
+```
+
 \[**Core Parameters:**\] categories: The categories of the generated knowledge QA pairs
 num_pairs: The number of knowledge QA pairs to be generated
 
