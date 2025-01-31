@@ -33,13 +33,20 @@ Our study systematically investigates **massive values** in LLMs' attention mech
 ```
 #### Passkey Retrieval Data Synthesis Parameters：
 
-\[**Core Parameters:**\] seq_length=128: Total length of the generated text sequence (must be ≥ 101)
-begin_pos=50: Starting position for password insertion, passkey_length=6: Length of the password to be inserted
+\[**Core Parameters:**\]
+- seq_length=128: Total length of the generated text sequence (must be ≥ 101)
+- begin_pos=50: Starting position for password insertion
+- passkey_length=6: Length of the password to be inserted
 
-\[**Data Generation Controls:**\] num_gen_example=200: Number of examples to generate, max_data_num=200: Maximum number of examples in the final dataset
-Note: To adjust the dataset size, both num_gen_example and max_data_num should be set to the same value. For example, to generate 300 examples, set both parameters to 300.
+\[**Data Generation Controls:**\]
+- num_gen_example=200: Number of examples to generate
+- max_data_num=200: Maximum number of examples in the final dataset
 
-⚠️ Important: Setting seq_length below 101 will result in an error.
+> [!Note]
+> To adjust the dataset size, both num_gen_example and max_data_num should be set to the same value. For example, to generate 300 examples, set both parameters to 300.
+
+> [!Warning]
+> Setting seq_length below 101 will result in an error.
 
 ```
 pos_interval=500
@@ -68,16 +75,18 @@ The pipeline of knowledge QA data synthesis can be seen from the figure below.
 >> bash scripts/run_knowledge_qa.sh 
 ```
 
+The generated datasets are already available in the datasets folder.
+
 You can also run the code in the datasets/create_knowledge_qa.py to customize the categories and number of knowledge QA pairs.
 
 ```
 python datasets/create_knowledge_qa.py --category <YOUR_CATEGORY> --num_pairs <YOUR_NUM_PAIRS>
 ```
 
-\[**Core Parameters:**\] categories: The categories of the generated knowledge QA pairs
-num_pairs: The number of knowledge QA pairs to be generated
+\[**Core Parameters:**\]
+- categories: The categories of the generated knowledge QA pairs
+- num_pairs: The number of knowledge QA pairs to be generated
 
-The generated datasets are already available in the datasets folder.
 
 <h3 id="3-4"> 4. 🎯 Get the Embedding Vector in different LLMs </h3>
 
@@ -134,6 +143,5 @@ CUDA_VISIBLE_DEVICES=0 python llm_example_save_attn.py \
     --model_name meta-llama/Llama-2-7b-chat-hf\
     --pattern "$pattern" \
     --round "$round" \
-    #2>&1 | tee ./imdb_destroy.log
-                
+    #2>&1 | tee ./imdb_destroy.log      
 ```
