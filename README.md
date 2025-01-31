@@ -60,9 +60,16 @@ You can find other datasets in datasets file.
 
 <h3 id="3-3"> 📊 3. Knowledge QA Data Synthesis</h3>
 
+The pipeline of knowledge QA data synthesis can be seen from the figure below.
+
+![Knowledge QA Data Synthesis](image/knowledge_qa.png)
+
 ```
 >> bash scripts/run_knowledge_qa.sh 
 ```
+\[**Core Parameters:**\] categories: The categories of the generated knowledge QA pairs
+num_pairs: The number of knowledge QA pairs to be generated
+
 The generated datasets are already available in the datasets folder.
 
 <h3 id="3-4"> 4. 🎯 Get the Embedding Vector in different LLMs </h3>
@@ -88,6 +95,7 @@ Find modeling_llama.py and search the code below. Then you can change the code: 
 global GLOBAL_L
 
 head_set = range(32)
+
 if GLOBAL_L in range(32):
     if not os.path.exists(save_dir):
         os.makedirs(save_dir)
