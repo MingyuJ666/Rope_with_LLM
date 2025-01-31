@@ -148,8 +148,9 @@ CUDA_VISIBLE_DEVICES=0 python llm_example_save_attn.py \
     --round "$round" \
     #2>&1 | tee ./imdb_destroy.log      
 ```
-\[**How to destroy Massive Value:**\] Find the file modeling_llama.py and search the code below: 
-
+\[**How to destroy Massive Value:**\] Find the file modeling_llama.py and search the code below(If you want to use other LLm, you can use modeling_gemma2.py, modeling_qwen2.py.......): 
+- **add_mean_perturbation = True**: replace the massive value in the QK embedding vector with their mean value. 
+- **add_other_perturbation = True**: replace the other place in the QK embedding vector with their mean value. 
 ```
         add_mean_perturbation = False
         add_other_perturbation = False
@@ -163,10 +164,8 @@ CUDA_VISIBLE_DEVICES=0 python llm_example_save_attn.py \
                     top_indices = indices.tolist()
                     target_vectors = [query_states[:, :, head_idx, idx] for idx in top_indices]
                     mean_value = torch.mean(torch.stack([vector.mean() for vector in target_vectors]))
-                    min_value = torch.min(torch.stack([vector.min() for vector in target_vectors]))
-                    max_value = torch.max(torch.stack([vector.max() for vector in target_vectors]))
                     for idx in top_indices:
-                        query_states[:, :, head_idx, idx] = max_value
+                        query_states[:, :, head_idx, idx] = mean_value
                      ..................................................................................................
                      ..................................................................................................
                             
