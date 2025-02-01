@@ -4,7 +4,7 @@ import argparse
 import os
 import pandas as pd
 from huggingface_hub import login
-hf_hub_token = "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"
+hf_hub_token = ".................."
 login(token=hf_hub_token)
 warnings.filterwarnings("ignore")
 from datasets import load_dataset
