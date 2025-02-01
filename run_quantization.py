@@ -28,6 +28,8 @@ from run_datasets import (run_cities, run_aqua, run_math, run_imdb, run_sports,
 from transformers import AutoTokenizer, AutoProcessor
 from qwen_vl_utils import process_vision_info
 
+from llmcompressor.transformers import SparseAutoModelForCausalLM
+
 def run_jamba(prompt, tokenizer, model):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model = model.to(device)

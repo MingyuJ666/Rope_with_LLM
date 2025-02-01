@@ -26,6 +26,13 @@ Our study systematically investigates **massive values** in LLMs' attention mech
 >> pip install -r requirements.txt
 ```
 
+Set the environment variables in the .env file.
+For example:
+```
+OPENAI_API_KEY=""
+HF_AUTH_TOKENS=""
+```
+
 <h3 id="3-2"> 📊 2. Passkey Retrieve Data Synthesis</h3>
 
 ```
