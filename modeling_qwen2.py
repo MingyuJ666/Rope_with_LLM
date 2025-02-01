@@ -438,7 +438,7 @@ class Qwen2FlashAttention2(Qwen2Attention):
                         target_vectors = [query_states[:, :, head_idx, idx] for idx in top_indices]
                         mean_value = torch.mean(torch.stack([vector.mean() for vector in target_vectors]))
                         for idx in top_indices:
-                            query_states[:, :, head_idx, idx] = 0
+                            query_states[:, :, head_idx, idx] = mean_value 
                             
                 num_heads = key_states.size(2)
                 matrix = key_states.norm(dim=1).squeeze(0)
@@ -452,7 +452,7 @@ class Qwen2FlashAttention2(Qwen2Attention):
                     mean_value = torch.mean(torch.stack([vector.mean() for vector in target_vectors]))
 
                     for idx in top_indices:
-                        key_states[:, :, head_idx, idx] = 0
+                        key_states[:, :, head_idx, idx] = mean_value 
 
 
 
