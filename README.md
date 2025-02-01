@@ -83,7 +83,7 @@ You can also run the code in the datasets/create_knowledge_qa.py to customize th
 >> python datasets/create_knowledge_qa.py --category <YOUR_CATEGORY> --num_pairs <YOUR_NUM_PAIRS>
 ```
 
-\[**Core Parameters:**\]
+\[**Core Parameters**\]: 
 - categories: The categories of the generated knowledge QA pairs
 - num_pairs: The number of knowledge QA pairs to be generated
 

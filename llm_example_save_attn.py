@@ -3,9 +3,9 @@ import warnings
 import argparse
 import os
 import pandas as pd
-from huggingface_hub import login
-hf_hub_token = "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"
-login(token=hf_hub_token)
+
+from dotenv import load_dotenv
+load_dotenv()
 warnings.filterwarnings("ignore")
 from datasets import load_dataset
 from modify_utils import update_path
