@@ -191,3 +191,17 @@ if q_len != 1:
     --round 1
 ```
 
+
+
+
+
+#### Citation
+If you find the code is valuable, please use this citation.
+```
+@article{jin2025massive,
+  title={Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding},
+  author={Jin, Mingyu and Mei, Kai and Xu, Wujiang and Sun, Mingjie and Tang, Ruixiang and Du, Mengnan and Liu, Zirui and Zhang, Yongfeng},
+  journal={arXiv preprint arXiv:2502.01563},
+  year={2025}
+}
+```
