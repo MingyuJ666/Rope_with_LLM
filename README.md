@@ -11,6 +11,8 @@
 
 - \[**May 2025**\] [Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding](https://arxiv.org/abs/2502.01563) was accepted by **ICML 2025** 🎉🎉🎉🎉🎉
 
+- \[**May 2025**\] I will give a talk about **Massive Values in Self-Attention Modules** at NiceNLP
+
 ## ❗Abstract
 Our study systematically investigates **massive values** in LLMs' attention mechanisms. First, we observe massive values are concentrated in low-frequency dimensions across different attention heads exclusively in attention queries (Q) and keys (K) while absent in values (V). Besides, we find that these massive values are more responsible for understanding contextual knowledge (i.e., knowledge from context window) rather than retrieving parametric knowledge (i.e., knowledge from trained parameters) by extensive experiments. Further analysis of quantization methods shows that failing to protect massive values during quantization leads to more substantial performance degradation in contextual knowledge understanding, aligning with this observation. In addition, we analyze the root cause of the massive values and demonstrate that these massive values are induced by the mechanisms of RoPE (Rotary Positional Encoding) and that the values of low-frequency dimensions are less affected by position information. Our findings collectively uncover the functions of massive values in the Q and K, providing valuable insights for future model design and optimization strategies. 
 
