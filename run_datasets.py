@@ -69,6 +69,56 @@ def run_opt(prompt,tokenizer,model):
     tokenizer.batch_decode(generated_ids)[0]
     return tokenizer.batch_decode(generated_ids)[0]
   
+def run_gptneox(prompt, tokenizer, model):
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
+    
+    inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    input_ids = inputs.input_ids
+
+    with torch.no_grad():
+        gen_tokens = model.generate(
+            input_ids,
+            do_sample=True,
+            temperature=0.9,
+            max_length=1000,
+        )
+
+    gen_text = tokenizer.batch_decode(gen_tokens)[0]
+    return gen_text
+
+
+
+def run_gptneo(prompt, tokenizer, model):
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
+    
+    inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    input_ids = inputs.input_ids
+
+    with torch.no_grad():
+        gen_tokens = model.generate(
+            input_ids,
+            do_sample=True,
+            temperature=0.9,
+            max_length=1000,
+        )
+
+    gen_text = tokenizer.batch_decode(gen_tokens)[0]
+    return gen_text
+
+
+
+def run_gpt2(prompt, tokenizer, model):
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model_inputs = tokenizer([prompt], return_tensors="pt").to(device)
+    model.to(device)
+    generated_ids = model.generate(**model_inputs, max_new_tokens=100, do_sample=True)
+    gen_text = tokenizer.batch_decode(generated_ids)[0]
+    return gen_text
+    
+
 def run_qwen(system_prompt, prompt,tokenizer,model,max_new_tokens):
 
     messages = [
@@ -134,6 +184,8 @@ def run_llama(system_prompt,prompt,tokenizer,model,max_token):
     answer= tokenizer.decode(tokens[0][input_ids.shape[1]:], skip_special_tokens=True)
    
     return answer
+
+
 
 
 def calculate_perplexity(answer, model, tokenizer):

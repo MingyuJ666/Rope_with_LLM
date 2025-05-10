@@ -3,9 +3,9 @@ import warnings
 import argparse
 import os
 import pandas as pd
-
-from dotenv import load_dotenv
-load_dotenv()
+from huggingface_hub import login
+hf_hub_token = "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"
+login(token=hf_hub_token)
 warnings.filterwarnings("ignore")
 from datasets import load_dataset
 from modify_utils import update_path
@@ -20,11 +20,18 @@ from modeling_gemma2 import Gemma2ForCausalLM
 from modeling_opt import OPTForCausalLM
 from modeling_jamba import JambaForCausalLM
 from modeling_qwen2_vl import Qwen2VLForConditionalGeneration
+from modeling_gpt_neo import GPTNeoForCausalLM
+from modeling_gpt_neox import GPTNeoXForCausalLM
+from modeling_gpt2 import GPT2LMHeadModel
 import re
 from datasets import load_dataset
 import csv
 import numpy as np
-from run_datasets import run_cities, run_aqua, run_math, run_imdb, run_sports, run_art, run_tech, run_cele, run_gemma, run_llama, run_qwen, run_opt, run_mistral, run_knowledge
+from run_datasets import (
+    run_cities, run_aqua, run_math, run_imdb, run_sports, run_art, run_tech,
+    run_cele, run_gemma, run_llama, run_qwen, run_opt, run_mistral,
+    run_knowledge, run_gptneox, run_gptneo, run_gpt2
+)
 from transformers import AutoTokenizer, AutoProcessor
 from qwen_vl_utils import process_vision_info
 
@@ -136,7 +143,16 @@ def main(args):
         
         processor = AutoProcessor.from_pretrained(model_path)
         
-
+    elif 'gpt-neox' in model_name:
+        model = GPTNeoXForCausalLM.from_pretrained(model_path, 
+                                                   torch_dtype=torch.float16, 
+                                                   attn_implementation="flash_attention_2").half().cuda()
+    elif 'gpt-neo-' in model_name:
+        model = GPTNeoForCausalLM.from_pretrained(model_path, 
+                                                   torch_dtype=torch.float16).half().cuda()
+    elif 'gpt2' in model_name:    
+        model = GPT2LMHeadModel.from_pretrained(model_path, 
+                                                   torch_dtype=torch.float16).half().cuda()
 
 
     model.eval()
@@ -155,6 +171,7 @@ def main(args):
         fluctuation = f"({std_deviation:+.1f}%)"  # Display fluctuation with + or - sign
         print(f"Accuracy: {mean_accuracy:.1f}% {fluctuation}")
         
+        
     elif args.pattern == "knowledge_conflict":
         file = 'datasets/cities.csv'
         data = pd.read_csv(file)
@@ -162,16 +179,17 @@ def main(args):
         accuracy = run_knowledge(model_path, tokenizer, model, data)
 
 
-        
-    
     elif args.pattern == "save_attn":
-        data = load_dataset("deepmind/aqua_rat", "raw")['test']        
+        # data = load_dataset("deepmind/aqua_rat", "raw")['test']        
+        # data = load_dataset('gsm8k', 'main')['test']
+        data = load_dataset("stanfordnlp/imdb")['train']
         update_path(f"saved_attn_scores/{model_name}")
         num_correct = 0
         
         for i in data:
 
-            question = '1+1=?'
+            question = i['text']
+            
             if 'gemma' in model_path:
                     max_new_tokens = 1000
                     prompt =  question 
@@ -180,7 +198,7 @@ def main(args):
                     
             elif 'llama' in model_path:
                     max_new_tokens = 1200
-                    prompt =  question + ' Choose the correct answer from the options: '
+                    prompt =  question 
                     print(prompt)
                     system_prompt = "You are a helpful math expert who can help me. Put the final option and answer at the end of the sentence. Do not show other incorrect options."
                     answer = run_llama(system_prompt, prompt, tokenizer,model,max_new_tokens)
@@ -215,7 +233,16 @@ def main(args):
                     answer = run_mistral(system_prompt, prompt, tokenizer,model,max_new_tokens)
             
             elif 'Qwen2-VL' in model_path:
-                   run_qwen2vl(processor, model)      
+                   run_qwen2vl(processor, model)    
+                     
+            elif 'gpt-neox' in model_path:
+                q = run_gptneox(question, tokenizer, model)
+
+            elif 'gpt-neo-' in model_path:
+                q = run_gptneo(question, tokenizer, model)
+            elif 'gpt2' in model_path:
+                q = run_gpt2(question, tokenizer, model)
+
             exit()
                     
            
