@@ -207,16 +207,11 @@ If you find the code is valuable, please use this citation.
 @inproceedings{
 jin2025massive,
 title={Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding},
-author={Jin, Mingyu and Mei, Kai and Xu, Wujiang and Sun, Mingjie and Tang, Ruixiang and Du, Mengnan and Liu, Zirui and Zhang, Yongfeng},
+author={Mingyu Jin and Kai Mei and Wujiang Xu and Mingjie Sun and Ruixiang Tang and Mengnan Du and Zirui Liu and Yongfeng Zhang},
 booktitle={Forty-second International Conference on Machine Learning},
-year={2025}
+year={2025},
+url={https://openreview.net/forum?id=1SMcxxQiSL}
 }
 ```
-```
-@article{jin2025massive,
-  title={Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding},
-  author={Jin, Mingyu and Mei, Kai and Xu, Wujiang and Sun, Mingjie and Tang, Ruixiang and Du, Mengnan and Liu, Zirui and Zhang, Yongfeng},
-  journal={arXiv preprint arXiv:2502.01563},
-  year={2025}
-}
-```
+
+
